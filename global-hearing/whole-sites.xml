@@ -1,0 +1,2958 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FileZilla3 version="3.63.1" platform="mac">
+	<Servers>
+		<Server>
+			<Host>a19taxi.insure</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>a19@a19taxi.insure</User>
+			<Pass encoding="base64">MjQxaGMxbiQjKkc2</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>A19taxi</Name>
+			<Comments>241hc1n$#*G6</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>aws1.purecontent.com</Host>
+			<Port>21</Port>
+			<Protocol>6</Protocol>
+			<Type>0</Type>
+			<User>purecontentlivelife</User>
+			<Pass encoding="base64">TGVpYlMhTDRx</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_ACTIVE</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>API REPORT</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>20.207.207.19</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>azureuser</User>
+			<Pass encoding="base64">QXBvbGxvQDEyMzQ1Ng==</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Apollo CWW Changes</Name>
+			<Comments>Username: azureuser
+
+Password: Apollo@123456
+VM Name : ApolloCCWwebVMtest
+Public IP: 20.207.207.19
+
+Private IP: 192.168.2.5</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>217.21.92.85</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>u102238453.apollo</User>
+			<Pass encoding="base64">dTUmbiM5ZFBiVDImag==</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Apollo-staging-bestdemo</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>3.208.199.12</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>avishek</User>
+			<Keyfile>/Users/ciamalaciamala/Downloads/wordpress-5.4.1.zip.ppk</Keyfile>
+			<Logontype>5</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Ayurvedagram Stag</Name>
+			<Colour>7</Colour>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ec2-13-235-107-149.ap-south-1.compute.amazonaws.com</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>ec2-user</User>
+			<Keyfile>/Users/askan/Downloads/boxstories.pem</Keyfile>
+			<Logontype>5</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Boxstories</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>103.98.32.62</Host>
+			<Port>21</Port>
+			<Protocol>6</Protocol>
+			<Type>0</Type>
+			<User>admin_brain</User>
+			<Pass encoding="base64">eDRzeUc5NlR2RA==</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Brain pmhere</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>217.21.92.85</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>u102238453.eroute</User>
+			<Pass encoding="base64">bUM0OVhwdjYqJmh5</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>EROUTE</Name>
+			<Comments>mC49Xpv6*&amp;hy</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>18.220.49.224</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>ec2-user</User>
+			<Keyfile>/Users/ciamalaciamala/Downloads/PEM/ErouteAws.cer</Keyfile>
+			<Logontype>5</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>EROUTE-AWS</Name>
+			<Comments>http://ec2-18-188-179-25.us-east-2.compute.amazonaws.com/
+18.220.49.224
+ec2-user
+ec2-18-188-179-25.us-east-2.compute.amazonaws.com</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>194.163.34.35</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>admin_erouteback</User>
+			<Pass encoding="base64">YTRJbDZBK3JPYzRlQG1FSQ==</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>EROUTE-BACKEND</Name>
+			<Comments>bestdemo - ,q3u)$V*h`b4Jm}z
+New - a4Il6A+rOc4e@mEI
+ssh root@194.163.34.35
+fsOG2Gz90VSM</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>194.163.34.35</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>root</User>
+			<Pass encoding="base64">ZnNPRzJHejkwVlNN</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>EROUTE_bcakend</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.energytherapy.biz</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>live_bk@energytherapy.biz</User>
+			<Pass encoding="base64">YltJcVVOcWtiMD0j</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ET-live</Name>
+			<Comments>b[IqUNqkb0=#</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>207.7.94.147</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>fts@alldemosite.com</User>
+			<Pass encoding="base64">el1wVFdEI1NrIS1H</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>FTS</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>103.98.32.62</Host>
+			<Port>21</Port>
+			<Protocol>6</Protocol>
+			<Type>0</Type>
+			<User>admin_health</User>
+			<Pass encoding="base64">c3RNUHdEcXNPVw==</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>HealthyXpress</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>143.110.246.199</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>master_yxdnnuprfh</User>
+			<Pass encoding="base64">ZVdyeWs9JHlnMkA5</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>KA LIVE NEW MAR 2022</Name>
+			<Comments>Od Pass: MD4aYz3M
+New Pass :  eWryk=$yg2@9</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>143.110.246.199</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>ka_march_staging_2022</User>
+			<Pass encoding="base64">S0FtYXJjaHN0YWdpbmdAMjAyMg==</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>KA MAR Staging</Name>
+			<Comments>KAmarchstaging@2022</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>3.208.199.12</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>avishek</User>
+			<Keyfile>/Users/Askan/Downloads/wordpress-5.4.1.zip.ppk</Keyfile>
+			<Logontype>5</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>KA resort</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>keralaayushop.sftp.wpengine.com</Host>
+			<Port>2222</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>keralaayushop-keralaayurshopnpd</User>
+			<Pass encoding="base64">V2ViJHBlZWRAMTIz</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>KA_US</Name>
+			<Comments>Web$peed@123</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>3.208.199.12</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>avishek</User>
+			<Keyfile>/Users/Askan/Documents/PPK FILES/AyurvedhaGram/wordpress-5.4.1.zip.ppk</Keyfile>
+			<Logontype>5</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>KAyurveaGram Stag</Name>
+			<Colour>2</Colour>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>157.230.36.228</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>userkan</User>
+			<Pass encoding="base64">V2ViJHBlZWRAMTIz</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Kerala Ayurvedha Live</Name>
+			<Comments>Web$peed@123</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>157.230.36.228</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>kanewstaging</User>
+			<Pass encoding="base64">V2ViJHBlZWRAMTIz</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>KeralaAyurvedha</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>157.230.36.228</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>kanewstaging_new</User>
+			<Pass encoding="base64">V2ViJHBlZWRAMTIz</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>KeralaAyurvedha_staging_new</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>aws1.purecontent.com</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>livelife</User>
+			<Keyfile>/Users/Askan/Documents/livelife.ppk</Keyfile>
+			<Logontype>5</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Livelife_new_sftp</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.multigadget.insure</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>kanmulti@multigadget.insure</User>
+			<Pass encoding="base64">ZmtlJDkySmVQM2dwQGg=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>8</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Multigadget New Live 1</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>207.7.94.147</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>amp_test@askantech.com</User>
+			<Pass encoding="base64">MmIpNl1lIVtEKn1S</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Mypercent https</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>207.7.94.147</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>mypercentcalculator@askantech.com</User>
+			<Pass encoding="base64">Y194XnVmbmklY0o5</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_ACTIVE</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Mypercent_askantech</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>trmtestcr.com</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>xagittbx</User>
+			<Pass encoding="base64">NkJMVUF1cTMoNG43O2k=</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>New site</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>13.127.165.135</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>riopads</User>
+			<Pass encoding="base64">cmlvcGFkc2Z0cHBhc3N3b3Jk</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>New site 2</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>217.21.92.85</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>u102238453.proton</User>
+			<Pass encoding="base64">RnU5MjU5ZzJyRHlX</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>PORTON</Name>
+			<Comments>Host: 217.21.92.85
+User: u102238453.proton	
+Pass: Fu9259g2rDyW</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.priorityparcels.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>userkan@priorityparcels.com</User>
+			<Pass encoding="base64">V2ViJHBlZWRAMTIz</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>PPI LIVE</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>204.197.245.171</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>userkanspeed@ppi.askantech.com</User>
+			<Pass encoding="base64">V2ViJHBlZWRAMTIz</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_ACTIVE</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>PPI Staging</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>217.21.92.85</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>u102238453.protonwcv</User>
+			<Pass encoding="base64">SXElY1lkJDgxRjNQ</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>PROTON-CWW</Name>
+			<Comments>
+protonwcv.bestdemo.site
+
+host: 217.21.92.85
+user: u102238453.protonwcv
+pass: Iq%cYd$81F3P</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>217.21.92.85</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>u102238453.protonclone</User>
+			<Pass encoding="base64">VCtAe15ufDIuVHA3fTBbeg==</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>PROTON-NEW-URL-Change</Name>
+			<Comments>217.21.92.85
+u102238453.protonclone
+T+@{^n|2.Tp7}0[z</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>20.235.33.120</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>azureuser</User>
+			<Pass encoding="base64">V2VsY29tZUAxMjM0NTY=</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Proton-new-staging</Name>
+			<Comments>Welcome@123456</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>35.154.146.133</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>bitnami</User>
+			<Keyfile>/Users/ciamalaciamala/Downloads/newrio.cer</Keyfile>
+			<Logontype>5</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>RIO-NEW-server</Name>
+			<Comments>mLkC7jJPKc5Y</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>13.127.165.135</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>riopads</User>
+			<Pass encoding="base64">cmlvcGFkc2Z0cHBhc3N3b3Jk</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_PASSIVE</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>RIONEW</Name>
+			<Comments>rionewpass
+rioftppass
+newriopass
+1234561</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>104.37.86.17</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>ouhnoook</User>
+			<Pass encoding="base64">OGdkIXpZNVZwNThZKlY=</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>TRMCCRONS.COM</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>3.134.29.178</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>ec2-user</User>
+			<Keyfile>/Users/askan/Documents/PEM-Files/TYCL.pem</Keyfile>
+			<Logontype>5</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>TYCL</Name>
+			<Comments>ec2-3-144-117-214.us-east-2.compute.amazonaws.com
+/Users/ciamalaciamala/Downloads/TYCL.pem
+ec2-user</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>54.221.213.122</Host>
+			<Port>22223</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>lotdev</User>
+			<Pass encoding="base64">d1NnM0ZubWRMeW5teXJUYkdrZk0=</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Taylor AWS new</Name>
+			<Comments>wSg3FnmdLynmyrTbGkfM</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>54.198.184.12</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>ubuntu</User>
+			<Keyfile>/Users/ciamalaciamala/Downloads/chatapplication.pem</Keyfile>
+			<Logontype>5</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>TaylorAWS</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>trmctest.com</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>trmctest</User>
+			<Pass encoding="base64">NFJ3Nm9lSTU4bA==</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Taylor_staging</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>199.116.77.94</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>taylorro</User>
+			<Pass encoding="base64">bFdrbHhvUFI=</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Taylorlive</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>207.7.94.147</Host>
+			<Port>21</Port>
+			<Protocol>6</Protocol>
+			<Type>0</Type>
+			<User>stagingatime@webspeedmaster.com</User>
+			<Pass encoding="base64">V2ViJHBlZWRAMTIz</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Timesheet</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>207.7.94.147</Host>
+			<Port>21</Port>
+			<Protocol>6</Protocol>
+			<Type>0</Type>
+			<User>atime@webspeedmaster.com</User>
+			<Pass encoding="base64">V2ViJHBlZWRAMTIz</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Timesheet Live</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>207.7.94.147</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>portal@askantech.com</User>
+			<Pass encoding="base64">U1ZRfWJVeWl9cTU2</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Timesheet_new_live</Name>
+			<Comments>SVQ}bUyi}q56</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>207.7.94.147</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>stagingportal@stagingportal.askantech.com</User>
+			<Pass encoding="base64">ZU1PJTJdaSVNelEp</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Timesheet_new_staging</Name>
+			<Comments>eMO%2]i%MzQ)</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>3.6.105.181</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>ec2-user</User>
+			<Keyfile>/Users/ciamalaciamala/Downloads/ulamart_magento.pem</Keyfile>
+			<Logontype>5</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Ulamart Magento 1</Name>
+			<Comments>ssh ec2-user@3.6.105.181 -i /Users/nigila/Downloads/ulamart_magento.pem
+
+13.235.104.36
+13.233.200.87</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>35.154.173.19</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>ec2-user</User>
+			<Keyfile>/Users/ciamalaciamala/Downloads/ulamartmagento.pem</Keyfile>
+			<Logontype>5</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Ulamart Magento 2</Name>
+			<Comments>ssh ec2-user@35.154.173.19  -i /Users/nigila/Downloads/ulamartmagento.pem
+
+13.234.78.142
+65.0.80.9
+13.234.78.142</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>194.163.34.35</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>admin_ulamartInventory</User>
+			<Pass encoding="base64">TSFxbCNzMiNMNXBEMUVlNQ==</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>UlamartInventory</Name>
+			<Comments>M!ql#s2#L5pD1Ee5</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>194.163.34.35</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>root</User>
+			<Pass encoding="base64">ZF5oRXA5ZVRWZ2hZ</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>UlamartMAgentoNewStagingM2</Name>
+			<Comments>d^hEp9eTVghY</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>103.127.31.76</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>production@ulamart.com</User>
+			<Pass encoding="base64">RFNBMVdzM1MkJXc4MDZZaQ==</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>UlamartMagento2NewLive</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>43.205.44.30</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>ec2-user</User>
+			<Keyfile>/Users/ciamalaciamala/Downloads/UlamartMagentoAdmin (1).pem</Keyfile>
+			<Logontype>5</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Ulamart_AWS</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>204.197.245.171</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>ulamart_sandbox_askantech@ulamart.com</User>
+			<Pass encoding="base64">V2ViJHBlZWRAMTIz</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Ulamart_Sandbox</Name>
+			<Comments>Web$peed@123</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>207.7.94.147</Host>
+			<Port>21</Port>
+			<Protocol>6</Protocol>
+			<Type>0</Type>
+			<User>ciamala@ulamart.com</User>
+			<Pass encoding="base64">TDAlSFY3cTgwZzVn</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Ulatools</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>65.0.7.193</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>ec2-user</User>
+			<Keyfile>/Users/Askan/Downloads/Askan.pem</Keyfile>
+			<Logontype>5</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>VirtualDemo</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>194.163.34.35</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>admin_buyleadsonline</User>
+			<Pass encoding="base64">Rm8rdkUqQWQ4bktnKyp3dg==</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Yavaleads</Name>
+			<Comments>Fo+vE*Ad8nKg+*wv</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ssh.a19taxi.insure</Host>
+			<Port>18765</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>u3-fystmkn3uxp8</User>
+			<Keyfile>/Users/askan/Downloads/Untitled.ppk</Keyfile>
+			<Logontype>5</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>a19</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>a19taxi.insure</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>a19taxi@a19taxi.insure</User>
+			<Pass encoding="base64">QWIxP2sxJigzb0Bg</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>a19taxi.insure</Name>
+			<Comments>Ab1?k1&amp;(3o@`</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>103.98.32.62
+
+
+103.98.32.62</Host>
+			<Port>21</Port>
+			<Protocol>6</Protocol>
+			<Type>0</Type>
+			<User>admin_aquariumspecialty</User>
+			<Pass encoding="base64">dlI5UEl0MkJLaw==</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_ACTIVE</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>acqarium2</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>207.7.94.147</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>act@act.askantech.com</User>
+			<Pass encoding="base64">M20obFAqQFlHZF1p</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>act_askan</Name>
+			<Comments>3m(lP*@YGd]i</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>207.7.94.147</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>act@act.alldemosite.com</User>
+			<Pass encoding="base64">KXlmRVhrdTkwb1Jx</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>actnow</Name>
+			<Comments>)yfEXku90oRq</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>72.52.175.33</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>s9350</User>
+			<Pass encoding="base64">OGFwTTBVMVBYVG1uc0ZEZVJzMEpXREo=</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>actnow_new _taging</Name>
+			<Comments>8apM0U1PXTmnsFDeRs0JWDJ</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>alliancehcm.sftp.wpengine.com</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>alliancehcm-npaccel</User>
+			<Pass encoding="base64">TnBAY0NFITIy</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>allinans-staging</Name>
+			<Comments>Np@cCE!22</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>217.21.92.85</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>u102238453.protonwcv</User>
+			<Pass encoding="base64">SXElY1lkJDgxRjNQ</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>apollo</Name>
+			<Comments>protonwcv.bestdemo.site
+
+host: 217.21.92.85
+user: u102238453.protonwcv
+pass: Iq%cYd$81F3P</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>13.71.47.23</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>apolloadmin2</User>
+			<Pass encoding="base64">UEBzc3cwcmRAMzIx</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>apollo live</Name>
+			<Comments>P@ssw0rd@321
+
+
+cd /var/www/    
+cd
+sudo rm -r html
+sudo cp -r /home/apolloadmin2/website/apollo html
+sudo chmod -R 777 /var/www/html
+
+
+
+NEW 
+——
+cd /var/www/html
+cp -r uploads/ /home/apolloadmin2/website/apollo/
+cd /var/www/    
+sudo rm -r html
+sudo cp -r /home/apolloadmin2/website/apollo html
+sudo chmod -R 777 /var/www/html</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>217.21.92.85</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>u102238453.apollo</User>
+			<Pass encoding="base64">dTUmbiM5ZFBiVDImag==</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>apollo-bestdemo</Name>
+			<Comments>u5&amp;n#9dPbT2&amp;j</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>104.211.230.230</Host>
+			<Port>2202</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>ap0ll0admin1</User>
+			<Pass encoding="base64">UEBzc3cwcmRAMTcyMjY=</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>apollo_proton_live-2</Name>
+			<Comments>IP : 104.211.230.230
+P@ssw0rd@17226
+Port : 2022
+
+Username : ap0ll0admin1
+
+Password : P@ssw0rd@17226
+cd /var/www/ 
+sudo rm -r html
+sudo cp -r /home/ap0ll0admin1/website/proton html
+cd html
+sudo chmod 777 uploads/
+cd /var/www/html/uploads
+sudo ln -s /mnt/protonprd/ uploadsdoc
+
+
+DB 
+
+
+db dumb data: query
+mysqldump -u protonsqladmin@mysql-proton-prod -p -h mysql-proton-prod.mysql.database.azure.com proton_database &gt; proton_database29nov.sql
+password:
+
+11:11
+password
+
+latha, 11:12
+Welcome!@34%^
+
+</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>104.211.230.230</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>ap0ll0admin1</User>
+			<Pass encoding="base64">UEBzc3cwcmRAMTcyMjY=</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>apollo_proton_live_site</Name>
+			<Comments>IP : 104.211.230.230
+
+Port : 22
+
+Username : ap0ll0admin1
+
+Password : P@ssw0rd@17226
+cd /var/www/ 
+sudo rm -r html
+sudo cp -r /home/ap0ll0admin1/website/proton html
+cd html
+sudo chmod 777 uploads/
+cd /var/www/html/uploads
+sudo ln -s /mnt/protonprd/ uploadsdoc</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>217.21.92.85</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>u102238453.apolloclone</User>
+			<Pass encoding="base64">JjY2Km8jd2QlZDQ2TiFZ</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>apolloclone</Name>
+			<Comments>
+&amp;66*o#wd%d46N!Y
+apolloclone
+ftp://217.21.92.85
+21
+
+217.21.92.85</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>207.7.94.147</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>multiapp@askantech.com</User>
+			<Pass encoding="base64">YW5kR2JdbmJBX0xz</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>app</Name>
+			<Comments>andGb]nbA_Ls</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>217.21.92.85</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>u102238453.askanacademy</User>
+			<Pass encoding="base64">NEltViZ0WDAmeDdRXkRK</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>askanAcademy</Name>
+			<Comments>Askan Academy
+FTP
+217.21.92.85
+u102238453.askanacademy
+4ImV&amp;tX0&amp;x7Q^DJ
+
+DB
+u102238453_askanacademy
+4ImV&amp;tX0&amp;x7Q^DJ</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>190.92.158.15</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>npa@autoaccidentreport.com</User>
+			<Pass encoding="base64">TGVhZEFjY2lkZW50NDYzMyE=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>auto-acciendent</Name>
+			<Comments>LeadAccident4633!</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>217.21.92.85</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>u102238453.autoaccidentreport</User>
+			<Pass encoding="base64">SU8+aWJMUGoxJExj</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>auto-bestdmeo</Name>
+			<Comments>217.21.92.85</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>35.168.47.144</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>filescan</User>
+			<Pass encoding="base64">c2NhbndwMTIzIUAj</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ayurvedha-gram</Name>
+			<Comments>scanwp123!@#</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>13.57.221.32</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>bisuser</User>
+			<Pass encoding="base64">RXJhd3RmMHNAMTEwNw==</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>bisearch</Name>
+			<Comments>Erawtf0s@1107</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>54.177.245.126</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>bisuser</User>
+			<Pass encoding="base64">RXJhd3RmMHNAMTEwNw==</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>bisresearch_live</Name>
+			<Comments>Erawtf0s@1107</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>bizcard.store</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>newbizcard@bizcard.store</User>
+			<Pass encoding="base64">bmV3Yml6Y2FyZEAxMjM=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>bizcard</Name>
+			<Comments>newbizcard@123</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>bizcard.store</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>bizcard</User>
+			<Keyfile>/Users/askan/Downloads/id_rsa.ppk</Keyfile>
+			<Logontype>5</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>bizcard-ssh</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>217.21.92.85</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>u102238453.bommi</User>
+			<Pass encoding="base64">Y2lBT3hJOWY1aSQy</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>bomimart-staging</Name>
+			<Comments>ciAOxI9f5i$2</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>103.50.163.86</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>bookmerlin@bookmerilab.com</User>
+			<Pass encoding="base64">OGIxT2xMJjEsOF47</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>bookmerlinlab</Name>
+			<Comments>8b1OlL&amp;1,8^;</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>103.50.163.86</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>bookmerlin_staging@bookmerlinstaging.bookmerilab.com</User>
+			<Pass encoding="base64">cHcsemRCb2hCNDhQ</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>bookmerlinlab_staging</Name>
+			<Comments>pw,zdBohB48P</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>217.21.92.85</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>u102238453.kannan</User>
+			<Pass encoding="base64">QXNrYW5XZWIkcGVlZEAxMjM=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>boomimart-live</Name>
+			<Comments>AskanWeb$peed@123</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>217.21.92.85</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>u102238453.bommi</User>
+			<Pass encoding="base64">Y2lBT3hJOWY1aSQy</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>boomimart-staging</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>207.7.94.147</Host>
+			<Port>21</Port>
+			<Protocol>6</Protocol>
+			<Type>0</Type>
+			<User>userkan-cadabams@npddemo.com</User>
+			<Pass encoding="base64">V2ViJHBlZWRAMTIz</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>cadabamshospital_npddemo</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>34.199.172.111</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>chopshop_fx@chopshopfx.com</User>
+			<Pass encoding="base64">O0hrY140Y1lvYzlV</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>chopshop-staging</Name>
+			<Comments>;Hkc^4cYoc9U</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>217.21.92.85</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>u102238453.ulamart.com</User>
+			<Pass encoding="base64">IXR4d1tbdFQw</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>dev.ulamart</Name>
+			<Comments>217.21.92.85
+u102238453.ulamart.com
+!txw[[tT0
+site path: /public_html/devnew</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>192.185.76.34</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>staging@dynatechconsultancy.com</User>
+			<Pass encoding="base64">Kj1rTEBmOWMhWltA</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>dynatech</Name>
+			<Comments>*=kL@f9c!Z[@</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>115.124.102.124</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>livenew@ecovillage.org.in</User>
+			<Pass encoding="base64">Xks4dyx3WWgxc01K</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>echovillage</Name>
+			<Comments>^K8w,wYh1sMJ</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.energytherapy.biz</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>live_bk@energytherapy.biz</User>
+			<Pass encoding="base64">YltJcVVOcWtiMD0j</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>energy-live</Name>
+			<Comments>live_bk@energytherapy.biz
+b[IqUNqkb0=#</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>3.138.181.176</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>ec2-user</User>
+			<Keyfile>/Users/ciamalae/Downloads/ESAVAI_JUN.pem</Keyfile>
+			<Logontype>5</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>esavai_new</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>207.7.89.125</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>swipe@eswipesolution.com</User>
+			<Pass encoding="base64">V2ViJHBlZWRAMTIzNDU=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>eswipeLive</Name>
+			<Comments>Web$peed@12345</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>67.222.18.149</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>userkan@gcbroking.in</User>
+			<Pass encoding="base64">Y2Y/bW9FN2VhK3lN</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>gcbroking</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.gcbroking.in</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>devgcbroking@dev.gcbroking.in</User>
+			<Pass encoding="base64">V2ViJHBlZWRAMTIz</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>gcbroking_staging</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>217.21.92.85</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>u102238453.gensales</User>
+			<Pass encoding="base64">V2ViJHBlZWRAMTIz</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>gensales-bestdemo</Name>
+			<Comments>Web$peed@123</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>gensalesgroup.sftp.wpengine.com</Host>
+			<Port>2222</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>gensalesgroup-npaccel</User>
+			<Pass encoding="base64">ZjcxaE5kMGpCOG84</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>gensales-live</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>217.21.92.85</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>u102238453.gielctric</User>
+			<Pass encoding="base64">QjRNd0wwNWE1Wg==</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>gielectri</Name>
+			<Comments>B4MwL05a5Z</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>194.163.44.61</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>admin_npdi</User>
+			<Pass encoding="base64">N25xdmFCa2FkYWRLSyVrdA==</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>globalhearing-live</Name>
+			<Comments>admin_npdi
+7nqvaBkadadKK%kt</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>207.7.94.147</Host>
+			<Port>21</Port>
+			<Protocol>6</Protocol>
+			<Type>0</Type>
+			<User>hairmd@alldemosite.com</User>
+			<Pass encoding="base64">QURJXUdeYW1lfn1i</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>hairmd-alldemosite</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>207.7.94.147</Host>
+			<Port>21</Port>
+			<Protocol>6</Protocol>
+			<Type>0</Type>
+			<User>hairmd@alldemosite.com</User>
+			<Pass encoding="base64">QURJXUdeYW1lfn1i</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>hairmd-alldemosite 2</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>harvestetfsdev.sftp.wpengine.com</Host>
+			<Port>2222</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>harvestetfsdev-NPDI</User>
+			<Pass encoding="base64">YUNURDdRXnJuSTNrTDY4U2ZTaHQkVio=</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>harvest</Name>
+			<Comments>aCTD7Q^rnI3kL68SfSht$V*</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ec2-3-138-103-33.us-east-2.compute.amazonaws.com</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>ubuntu</User>
+			<Keyfile>/Users/ciamalaciamala/Downloads/key.pem</Keyfile>
+			<Logontype>5</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>healthyxpress_Live</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>13.59.14.43</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>ubuntu</User>
+			<Keyfile>/Users/ciamalaciamala/Downloads/key.pem</Keyfile>
+			<Logontype>5</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>healthyxpress_staging</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>217.21.92.85</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>u102238453.helios</User>
+			<Pass encoding="base64">V2ViJHBlZWRAMTIz</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>helios-bestdemo</Name>
+			<Comments>Web$peed@123</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>3.16.111.146</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>ec2-user</User>
+			<Keyfile>/Users/ciamalae/Downloads/HHI_JUN.pem</Keyfile>
+			<Logontype>5</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>hhi_new</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>3.143.220.242</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>ec2-user</User>
+			<Keyfile>/Users/ciamalae/Downloads/hhhi.pem</Keyfile>
+			<Logontype>5</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>hhi_oct</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>217.21.92.85</Host>
+			<Port>65002</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>u102238453</User>
+			<Pass encoding="base64">dXZaIWhndyFEMTgw</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>hostigar</Name>
+			<Comments>uvZ!hgw!D180</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>18.130.76.83</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>userkan_order</User>
+			<Pass encoding="base64">QlYjRU1ya2cyakZ2</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_ACTIVE</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>iguesblog-new-aws</Name>
+			<Comments>BV#EMrkg2jFv</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>65.175.118.198</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>design@imarkshowroom.i-fund-raise.com</User>
+			<Pass encoding="base64">ak1mIXIzRzg5MQ==</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>imark_dhinesh</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>157.230.36.228</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>kastagingupgradel8</User>
+			<Pass encoding="base64">S2EkcGVlZEAxMjM=</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ka-upgrade</Name>
+			<Comments>Ka$peed@123</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>139.59.20.155</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>ka_upgraded_staging</User>
+			<Pass encoding="base64">SkFWOUVFRSpnJFA1WjItcjJV</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>kanew_2-4</Name>
+			<Comments>JAV9EEE*g$P5Z2-r2U</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>143.110.246.199</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>kanewstaging_958</User>
+			<Pass encoding="base64">a2VyYWxhQVZZJHBlZWRAMTIz</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>kanewstaging</Name>
+			<Comments>keralaAVY$peed@123
+http://phplaravel-738972-2657958.cloudwaysapps.com/
+</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>139.84.141.137</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>cust_user</User>
+			<Pass encoding="base64">QTFydGVseGxAYnM=</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>keshking-live</Name>
+			<Comments>A1rtelxl@bs</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>kjeng.alphacaptain.com</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>user1</User>
+			<Pass encoding="base64">a2plbmcyMDIwIQ==</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>kjeng.alphacaptai</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>166.62.28.143</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>landingkosmo@kosmocampaign.com</User>
+			<Pass encoding="base64">NCg2XWM2dXNnclNP</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>kosmo-live</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>aws1.purecontent.com</Host>
+			<Port>21</Port>
+			<Protocol>6</Protocol>
+			<Type>0</Type>
+			<User>purecontentlivelife</User>
+			<Pass encoding="base64">TGVpYlMhTDRx</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_ACTIVE</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>livelife.aws</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>cloudhost-7138472.us-midwest-2.nxcli.net</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>a3a7ffd9_1</User>
+			<Pass encoding="base64">Vm9sZVB1bnlQYWN0c1B1bnM=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>madmorllc</Name>
+			<Comments>VolePunyPactsPuns</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>217.21.92.85</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>u102238453.madmorllcuser</User>
+			<Pass encoding="base64">cyQycFliJTZaUiMz</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>madmorllc-bestdemo</Name>
+			<Comments>s$2pYb%6ZR#3</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>8788ed5c2a.nxcli.io</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>ac67d552_1</User>
+			<Pass encoding="base64">SG9tZVF1b3Rlc1dhcmVTdHJhbmQ=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>madmorllc-live</Name>
+			<Comments>HomeQuotesWareStrand</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>cloudhost-7138472.us-midwest-2.nxcli.net</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>a3a7ffd9_1</User>
+			<Pass encoding="base64">Vm9sZVB1bnlQYWN0c1B1bnM=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>madmorllc-staging</Name>
+			<Comments>VolePunyPactsPuns</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>cloudhost-7138472.us-midwest-2.nxcli.net</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>a3a7ffd9_1</User>
+			<Pass encoding="base64">Sm9nTXVsaW5nTGF3eWVyRXNwaWVz</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>madmorllic-live</Name>
+			<Comments>JogMulingLawyerEspies</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>lp.medicoverfertility.in</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>medicoverfertility</User>
+			<Pass encoding="base64">WWUzeW9HYTNAWHU=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>medicover</Name>
+			<Comments>medicoverfertility
+Ye3yoGa3@Xu</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>lp.medicoverfertility.in</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>medicoverfertility</User>
+			<Pass encoding="base64">WWUzeW9HYTNAWHU=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>medicoverfertility</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>208.109.23.122</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User> npaccel@pfeifferpfamily.com</User>
+			<Pass encoding="base64">WzglRiN4O3NAe31M</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>moratage-live</Name>
+			<Comments> npaccel@pfeifferpfamily.com
+[8%F#x;s@{}L</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>208.109.23.122</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>npaccel@pfeifferpfamily.com</User>
+			<Pass encoding="base64">WzglRiN4O3NAe31M</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>mortage</Name>
+			<Comments>[8%F#x;s@{}L</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>208.109.23.122</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>staging@mortgagemark.com</User>
+			<Pass encoding="base64">a3FpcUl0Ty17I2Z5</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>mortage-staging</Name>
+			<Comments>kqiqItO-{#fy</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>207.7.94.147</Host>
+			<Port>21</Port>
+			<Protocol>6</Protocol>
+			<Type>0</Type>
+			<User>multigadget@webspeedmaster.com</User>
+			<Pass encoding="base64">V2ViJHBlZWRAMTIz</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>multigadget</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>multigadget.insure</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>multigadget@multigadget.insure</User>
+			<Pass encoding="base64">bCRRX2MxM3FpKSQp</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>multigadget.insure</Name>
+			<Comments>l$Q_c13qi)$)</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>multigadget.insure</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>multigadget@multigadget.insure</User>
+			<Pass encoding="base64">bCRRX2MxM3FpKSQp</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>multigadget.insure 2</Name>
+			<Comments>l$Q_c13qi)$)</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>multigadget.insure</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>multigadget@multigadget.insure</User>
+			<Pass encoding="base64">bCRRX2MxM3FpKSQp</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>mutliget-live</Name>
+			<Comments>l$Q_c13qi)$)</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>103.98.32.62</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>admin_mypercentagecalculator</User>
+			<Pass encoding="base64">TVI0RTJSaFQxYg==</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>mypercentagecalculator</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>myphone.insure</Host>
+			<Port>21</Port>
+			<Protocol>4</Protocol>
+			<Type>0</Type>
+			<User>myphoneinsure@myphone.insure</User>
+			<Pass encoding="base64">QDZ5I3QsMzFlMWkr</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>myphoneinsure_staging</Name>
+			<Comments>@6y#t,31e1i+</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>204.197.245</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>n2ulamart@ne2.ulamart.com</User>
+			<Pass encoding="base64">Wkc2PUg2fUNYY2ZV</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>n2ulamart</Name>
+			<Comments>ZG6=H6}CXcfU</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>206.189.138.240</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>root</User>
+			<Pass encoding="base64">V2ViJHBlZWRAMTIz</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>nestpay</Name>
+			<Comments>Web$peed@123</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>13.233.90.22</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>ubuntu</User>
+			<Keyfile>/Users/ciamalaciamala/Downloads/PEM/SaranshGupta.pem</Keyfile>
+			<Logontype>5</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>neu</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>34.199.172.111</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>newdev@devchopshop.bestdemo.site</User>
+			<Pass encoding="base64">KFU7OF9ELVFeMDU9</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>newchopshop</Name>
+			<Comments>(U;8_D-Q^05=</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.om-paradise.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>u102238453.omparadise</User>
+			<Pass encoding="base64">OUlub3ZDd28hODk4</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>om-paradise</Name>
+			<Comments>9InovCwo!898</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>194.163.34.35</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>admin_node</User>
+			<Pass encoding="base64">YzNPZHkhbm9lK042UHdAMQ==</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>omnichannel-node</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>194.163.34.35</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>admin_omni</User>
+			<Pass encoding="base64">TEVkY00jeXMjeCp6SWY3eA==</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>omnichannel-react</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>217.21.92.85</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>u102238453.orangeelectrical</User>
+			<Pass encoding="base64">MWJoLiUjZTN3YX1S</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>orange-bestdemo</Name>
+			<Comments>
+1bh.%#e3wa}R</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>217.21.92.85</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>u102238453.orangeelectrical</User>
+			<Pass encoding="base64">MWJoLiUjZTN3YX1S</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>orange-elect</Name>
+			<Comments>1bh.%#e3wa}R</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>52.64.215.25</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>orangeel-newftp@orange-electrical.com.au</User>
+			<Pass encoding="base64">Q3sscUxSRktuUlFw</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>orange-electrical-live</Name>
+			<Comments>C{,qLRFKnRQp</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>207.7.89.125</Host>
+			<Port>21</Port>
+			<Protocol>6</Protocol>
+			<Type>0</Type>
+			<User>paysec1@payhot.in</User>
+			<Pass encoding="base64">WEE0V2hNcWduTQ==</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>payhot</Name>
+			<Comments>XA4WhMqgnM</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>217.21.92.85</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>u102238453.proton</User>
+			<Pass encoding="base64">RnU5MjU5ZzJyRHlX</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>proton-bestdemo-site</Name>
+			<Comments>proton.bestdemo.site
+host:217.21.92.85
+User: u102238453.proton	
+Pass: Fu9259g2rDyW</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>217.21.92.85</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>u102238453.u102238453_py_heritage</User>
+			<Pass encoding="base64">Wl5CQjc3IW41SHFl</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>rcp</Name>
+			<Comments>Z^BB77!n5Hqe</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>194.163.34.35</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>admin_redmine</User>
+			<Pass encoding="base64">YzFpSWQ0THJIakcjRjdpaQ==</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>redmine</Name>
+			<Comments>c1iId4LrHjG#F7ii</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>217.21.92.85</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>u102238453.rcpheritage</User>
+			<Pass encoding="base64">S2FuJHBlZWRAYXNrYW4xMjM=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>rephertiage</Name>
+			<Comments>u102238453.rcpheritage</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>207.7.94.147</Host>
+			<Port>21</Port>
+			<Protocol>6</Protocol>
+			<Type>0</Type>
+			<User>reshme@reshme.askantech.com</User>
+			<Pass encoding="base64">QXFGNTFhVkJzR1NM</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>reshme</Name>
+			<Comments>AqF51aVBsGSL</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>13.127.165.135</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>bitnami</User>
+			<Keyfile>/Users/askan/Downloads/rio.ppk</Keyfile>
+			<Logontype>5</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>rio-live</Name>
+			<Comments>/opt/bitnami/api_wordpress
+
+
+</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>13.127.165.135</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>bitnami</User>
+			<Keyfile>/Users/ciamalae/Downloads/rio.pem</Keyfile>
+			<Logontype>5</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>riopads</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>15.206.238.98</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>bitnami</User>
+			<Keyfile>/Users/ciamalae/Downloads/Rio_Lightsail_DefaultKey-ap-south-1.pem</Keyfile>
+			<Logontype>5</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>riopads_wordpress</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>65.1.233.233</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>ubuntu</User>
+			<Keyfile>/Users/Askan/Downloads/esavai.pem</Keyfile>
+			<Logontype>5</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>savai</Name>
+			<Comments>13.233.253.50</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.shiftminer.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>userkan@shiftminer.com</User>
+			<Pass encoding="base64">V2ViJHBlZWRAMTIz</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>shiftminner</Name>
+			<Comments>Web$peed@123</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>soltech22dev.sftp.wpengine.com</Host>
+			<Port>2222</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>soltech22dev-npaccel</User>
+			<Pass encoding="base64">Y05HYWtqT2RldkUz</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>soltech-staging</Name>
+			<Comments>cNGakjOdevE3</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>207.7.94.147</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>speed@speed.ulamart.com</User>
+			<Pass encoding="base64">V2ViJHBlZWRAMTIz</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>speed.ulamart.com</Name>
+			<Comments>Web$peed@123</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>217.21.92.85</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>u102238453.staging.askantech.com</User>
+			<Pass encoding="base64">V2ViJHBlZWRAMTIz</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>staging-askantec</Name>
+			<Comments>Web$peed@123</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>65.1.169.217</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>ec2-user</User>
+			<Keyfile>/Users/ciamalae/Documents/pk/hhih.pem</Keyfile>
+			<Logontype>5</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>test</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>65.2.82.104</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>ec2-user</User>
+			<Keyfile>/Users/ciamalae/Downloads/esavai_new.pem</Keyfile>
+			<Logontype>5</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>test2</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>217.21.92.85</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>u102238453.theshelfstaging</User>
+			<Pass encoding="base64">bjFYWSlFSShWIU13bCNrZk55</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>theshelf-best</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>34.239.214.20</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>bitnami</User>
+			<Keyfile>/Users/askan/Downloads/theselfputty.ppk</Keyfile>
+			<Logontype>5</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>theshelf-live</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>64.62.251.130</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>theyouthistlogin@theyouthist.com</User>
+			<Pass encoding="base64">JGJ0YV4pUTFaLjUz</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>thesyouthist-live-ste</Name>
+			<Comments>$bta^)Q1Z.53</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>64.62.251.130</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>theyouthist_ask@theyouthist.com</User>
+			<Pass encoding="base64">fk1zIU5PcGRObilv</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>theyouthist-live</Name>
+			<Comments>&amp;OviZ^aZQls]
+~Ms!NOpdNn)o</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>transplantsystems.com.au</Host>
+			<Port>21</Port>
+			<Protocol>6</Protocol>
+			<Type>0</Type>
+			<User>transplant_new@transplantsystems.com.au</User>
+			<Pass encoding="base64">MWRmMms4NSpLWiw2</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>transpalent</Name>
+			<Comments>1df2k85*KZ,6</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>trmcaskan.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>bxackclx</User>
+			<Pass encoding="base64">NzB5YXgxUkFlWi47QTc=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>trmcaskan</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>199.116.78.157</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>bxackclx</User>
+			<Pass encoding="base64">NzB5YXgxUkFlWi47QTc=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>trmcaskan 2</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>trmccrons.com</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>ouhnoook</User>
+			<Pass encoding="base64">OGdkIXpZNVZwNThZKlY=</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>trmccrons</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>207.7.94.147</Host>
+			<Port>21</Port>
+			<Protocol>6</Protocol>
+			<Type>0</Type>
+			<User>webspeed@ulamart.com</User>
+			<Pass encoding="base64">V2ViJHBlZWRAMTIz</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ulamart</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>103.212.120.189</Host>
+			<Port>21</Port>
+			<Protocol>6</Protocol>
+			<Type>0</Type>
+			<User>userkan@ulamart.com</User>
+			<Pass encoding="base64">V2ViJHBlZWRAMTIz</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_ACTIVE</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ulamart - new server</Name>
+			<Comments>Web$peed@123</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>34.87.145.219</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>ulamart</User>
+			<Keyfile>/Users/ciamalae/Documents/PPK FILES/Ulamart/ulamart.ppk</Keyfile>
+			<Logontype>5</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ulamart-Cloudaccess</Name>
+			<Comments>ulamart</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>204.197.245.171</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>askantech@new.ulamart.com</User>
+			<Pass encoding="base64">QXFGNTFhVkJzR1NM</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ulamart_live_2</Name>
+			<Comments>AqF51aVBsGSL</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>207.7.94.147</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>new@magento2.ulamart.com</User>
+			<Logontype>2</Logontype>
+			<PasvMode>MODE_ACTIVE</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ulamart_magento2</Name>
+			<Comments>Web$peed@123</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>103.150.136.131</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>speed@ulamart.com</User>
+			<Pass encoding="base64">V2ViJHBlZWRAMTIz</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ulamart_new_dev</Name>
+			<Comments>Web$peed@123</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>204.197.245.171</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>askantech_new_ulamart@new.ulamart.com</User>
+			<Pass encoding="base64">V2ViJHBlZWRAMTIz</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ulamart_new_live</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>103.127.31.76</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>dev2@ulamart.com</User>
+			<Pass encoding="base64">V2ViJHBlZWRAMTIz</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ulamart_new_live_jun21</Name>
+			<Comments>Web$peed@123</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>204.197.245.171</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>staging@ne2.ulamart.com</User>
+			<Pass encoding="base64">IWhnJEBTaCZicmx2</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ulamart_new_staging</Name>
+			<Comments>!hg$@Sh&amp;brlv</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>207.7.94.147</Host>
+			<Port>21</Port>
+			<Protocol>6</Protocol>
+			<Type>0</Type>
+			<User>vignesh@vignesh.askantech.com</User>
+			<Pass encoding="base64">V2ViJHBlZWRAMTIz</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>vignesh</Name>
+			<Comments>Web$peed@123</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.vistarepair.nl</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>vistalive@vistarepair.nl</User>
+			<Pass encoding="base64">ZDYjaWlwXzUkXjFA</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>vista-live</Name>
+			<Comments>d6#iip_5$^1@</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>3.139.100.145</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>1</Type>
+			<User>ec2-user</User>
+			<Keyfile>/Users/ciamalae/Downloads/vsevai_sep.pem</Keyfile>
+			<Logontype>5</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>vsevai</Name>
+			<RemoteDir>1 0</RemoteDir>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>3.110.241.11</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>ubuntu</User>
+			<Keyfile>/Users/ciamalae/Downloads/Vsevai NEW/vsevainew.pem</Keyfile>
+			<Logontype>5</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>vsevai-jan2022</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>watistg.sftp.wpengine.com</Host>
+			<Port>2222</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>wati1stg-seo-np</User>
+			<Pass encoding="base64">cWF6eHN3ZWRjdmZyOTkh</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>wati-staging</Name>
+			<Comments>qazxswedcvfr99!</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>3.111.210.29</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>bitnami</User>
+			<Keyfile>/Users/askan/Downloads/wesfra-clone.pem</Keyfile>
+			<Logontype>5</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>wesfra</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>watistg.sftp.wpengine.com</Host>
+			<Port>2222</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>watistg-seo-np</User>
+			<Pass encoding="base64">cWF6eHN3ZWRjOTlA</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>what-app</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>3.209.79.255</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>ubuntu</User>
+			<Keyfile>/Users/askan/Downloads/xyz.pem</Keyfile>
+			<Logontype>5</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>xyz-staging</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>44.201.126.229</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>ubuntu</User>
+			<Keyfile>/Users/askan/Downloads/Backup_XYZreptiles.ppk</Keyfile>
+			<Logontype>5</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>xyz-staing-new</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>217.21.92.85</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>u102238453.youcanfly</User>
+			<Pass encoding="base64">VWo+I2ZmdjRYWl45</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>youcanfly</Name>
+			<Comments>Uj&gt;#ffv4XZ^9</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.yourbackers.org</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>u950940136.yourbackers</User>
+			<Pass encoding="base64">M35CWkd8cUZreQ==</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>yourBackers</Name>
+			<Comments>3~BZG|qFky</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+	</Servers>
+</FileZilla3>
