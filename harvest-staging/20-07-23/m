@@ -1,0 +1,8 @@
+                                        window[tag].waitForElement('.mega-columns', function () {
+                                                jQuery(".mega-columns:not(.column-one)").hover(
+                                                        function () {
+                                                                jQuery(this).toggleClass('active');
+                                                                jQuery('.mega-navigation').toggleClass('active');
+                                                        }
+                                                );
+                                        })

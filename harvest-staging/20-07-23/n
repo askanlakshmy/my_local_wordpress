@@ -1,0 +1,776 @@
+ (function () {
+        var style = document.createElement('style'); style.type = 'text/css'; style.appendChild(document.createTextNode('/** Prefixed by https://autoprefixer.github.io* PostCSS: v8.4.14,* Autoprefixer: v10.4.7* Browsers: last 4 version*/html body .et-boc header .et_pb_section_1_tb_header {        box-shadow: none !important;}html body .language--wrapper span {        display: flex;        align-items: center;}html body .language--wrapper span a {        font-weight: 400;        font-size: 12px;        line-height: 16px;        color: #666666;        cursor: pointer;}html body .language--wrapper {        padding: 7px 0;        display: flex;        align-items: center;        justify-content: flex-end;        margin-right: 80px;}html body .language--wrapper svg {        margin: 0 12px;}html body .language--wrapper span:hover a {        color: #B19846;}html body .et_pb_menu__search-container.et_pb_no_animation {        width: 80% !important;        right: 60px;        margin-left: auto;}html body .et_pb_menu_0_tb_header.et_pb_menu--without-logo form.et_pb_menu__search-form {        margin-left: 55px}html body .learn-nav {        display: none !important;}html body .tippy-popper {        display: none !important;}html body .insights-nav .sub-menu,html body .about-nav .sub-menu,html body .media-nav .sub-menu {        display: none !important;}html body .mega-navigation {        position: absolute;        left: 0;        width: 100%;        top: 79px;        padding: 0 80px;        background: #FFFFFF;        display: none;}html body .mega-menu-parent.et-hover .mega-navigation {        display: block;}html body #et-boc #menu-main-menu-new > li > a::before {        content: "" !important;        width: 100%;        position: absolute !important;        bottom: 0;        left: 0;        opacity: 0;        outline: 2px solid #BEA140;}html body #et-boc #menu-main-menu-new > li.performance > a::before {        outline: none;        bottom: -1px;        z-index: 9999;        height: 3px;        background: #BEA140;}html body #menu-main-menu-new > .menu-item.et-hover > a::before {        opacity: 1 !important;}html body .mega-navigation-container {        display: flex;        position: relative;}html body .mega-navigation .mega-columns {        display: flex;        align-items: center;        justify-content: space-between;        border-bottom: 1px solid #DFDFDF;        cursor: pointer;}html body .mega-navigation .mega-columns-section {        width: 30%;        border-right: 1px solid #DFDFDF;}html body .mega-columns-items-section {        padding: 12px 0 0 0;}html body .mega-navigation .mega-column-items {        display: none;        position: absolute;        left: 30%;        top: 0;        padding-top: 42px;        max-width: 75%;        width: 100%;        height: 100%;}html body #page-container #et-boc .mega-navigation .mega-columns-heading .mega-heading-link {        font-family: \'Montserrat\';        font-style: normal;        font-weight: 500;        font-size: 16px;        line-height: 100%;        color: #666666 !important;        display: flex;        align-items: center;        text-align: left;        padding: 42px 0;        opacity: 1;}html body #page-container #et-boc .mega-navigation .mega-column-rows .mega-list .mega-link {        font-family: \'Montserrat\';        font-style: normal;        font-weight: 400;        font-size: 14px;        line-height: 19px;        color: #666666 !important;        word-break: unset;        padding: 0;        display: block;        transition: unset !important;        -webkit-transition: unset !important;        -moz-transition: unset !important;        -ms-transition: unset !important;        -o-transition: unset !important;        width: 100%;}html body .mega--bagde {        font-weight: 800;        position: relative;        font-style: normal;}html body .vertical--bar {        margin: 0 8px;        font-style: normal;}html body .mega-navigation.education-nav .mega-link,html body .mega-navigation.about-harvest .mega-link {        font-style: italic !important;}html body .mega-menu > .mega-navigation .mega-column-rows .mega-list .mega-link:hover {        opacity: 1;        background-color: transparent;}html body .mega-navigation .mega-column-rows {        padding-left: 41px;        width: 100%;}html body .mega-navigation .second--row {        padding-left: 74px;}html body .mega-columns.column-two .second--row {        padding-left: 0;}html body .mega-navigation .mega-column-list {        padding: 20px 0;        text-align: left;        width: unset;        visibility: visible;        opacity: 1;        position: static;}html body #et-boc .mega-navigation .mega-column-list {        background-color: unset !important;        border-color: unset !important;        box-shadow: none !important;        border: none !important;        padding: 0 !important;        width: 100%;}html body #et-boc .mega-navigation .mega-list {        float: none !important;        margin-bottom: 27px !important;        padding: 0 !important;        width: 100%;}html body .mega-navigation .mega-columns:after {        font-family: ETmodules;        content: "3";        font-size: 30px;        right: 0;        top: 50%;        color: #666666;        font-weight: 400;        transition: 0.1s transform linear;        -webkit-transition: 0.1s transform linear;        -moz-transition: 0.1s transform linear;        -ms-transition: 0.1s transform linear;        -o-transition: 0.1s transform linear;        margin-right: 16px;}html body #menu-main-menu-new {        margin: 0;}html body #menu-main-menu-new > .menu-item {        margin-top: 0;        padding: 0;}html body #menu-main-menu-new > .menu-item > a {        font-family: \'Montserrat\';        font-style: normal;        font-weight: 600;        font-size: 16px;        line-height: 20px;        display: flex;        align-items: center;        text-align: center;        color: #363637 !important;        padding: 24px 21px 24px 21px;}html body #menu-main-menu-new > .menu-item > a:hover {        opacity: 1 !important;}html body #menu-main-menu-new > .mega-menu-parent > a::after,html body #menu-main-menu-new > .insights-nav > a::after,html body #menu-main-menu-new > .media-nav > a::after,html body #menu-main-menu-new > .about-nav > a::after {        font-family: ETmodules;        content: "3";        font-size: 16px;        font-weight: 400;        position: unset !important;        transform: unset !important;        -webkit-transform: unset !important;        -moz-transform: unset !important;        -ms-transform: unset !important;        -o-transform: unset !important;        transition: 0.1s transform linear;        -webkit-transition: 0.1s transform linear;        -moz-transition: 0.1s transform linear;        -ms-transition: 0.1s transform linear;        -o-transition: 0.1s transform linear;        color: #B19846;}html body #menu-main-menu-new > .mega-menu-parent.et-hover > a::after,html body #menu-main-menu-new > .insights-nav.et-hover > a::after,html body #menu-main-menu-new > .about-nav.et-hover > a::after,html body #menu-main-menu-new > .media-nav.et-hover > a::after {        transform: translateY(1px) rotate(180deg) !important;}/* Insights Education Here */html body #menu-main-menu-new .insights-nav {        position: unset !important;}html body .mega-navigation.education-nav {        display: none;        width: 100%;}html body .insights-nav.et-hover .mega-navigation {        display: block;}html body .mega-navigation.education-nav .mega-column-items {        max-width: 75%;}html body .mega-navigation.about-harvest .mega-column-items {        max-width: 75%;}html body .mega-navigation.education-nav .column-four .mega-columns-heading {        padding: 5px 0;}html body .mega-navigation.education-nav .column-row-two .mega-column-list {        max-width: 100%;}html body .mega-navigation .mega-link:hover {        opacity: 1;        background-color: transparent;}/* Insights Education Section End *//* About Harvest Here */html body #menu-main-menu-new .about-nav {        position: unset !important;}html body .mega-navigation.about-harvest {        display: none;}html body .about-nav.et-hover .mega-navigation {        display: block;}html body .mega-navigation.about-harvest .mega-columns:not(.column-two)::after {        content: unset;}/* About Harvest Section End *//* Media Section Here */html body .mega-navigation.media .mega-column-items {        padding-top: 30px !important;}html body #menu-main-menu-new .media-nav {        position: unset !important;}html body .mega-navigation.media {        display: none;}html body .media-nav.et-hover .mega-navigation {        display: block;}html body .testimonial--links {        display: flex;        align-items: center;        margin-bottom: 26px;}html body .testimonial--links > img {        margin: 0 18px;}html body #page-container #et-boc .testimonial-item-link {        font-weight: 500;        font-size: 14px;        line-height: 19px;        color: #666666 !important;        display: flex;        align-items: center;}html body #page-container #et-boc .testimonial-item-link.view--all {        font-weight: 400;}html body #page-container #et-boc .testimonial-item-link.view--all:hover {        color: #B19846 !important;}html body #page-container #et-boc.testimonial-item-link.view--all svg {        transform: translate3d(3px, 0px, 0px);        transition: .6s cubic-bezier(0.65, 0.05, 0.36, 1);        -webkit-transform: translate3d(3px, 0px, 0px);        -moz-transform: translate3d(3px, 0px, 0px);        -ms-transform: translate3d(3px, 0px, 0px);        -o-transform: translate3d(3px, 0px, 0px);}html body #page-container #et-boc .testimonial-item-link.view--all:hover svg {        transform: translate3d(6px, 0px, 0px);        -webkit-transform: translate3d(6px, 0px, 0px);        -moz-transform: translate3d(6px, 0px, 0px);        -ms-transform: translate3d(6px, 0px, 0px);        -o-transform: translate3d(6px, 0px, 0px);}html body #page-container #et-boc .testimonial-item-link.view--all:hover svg path {        fill: #B19846 !important;}html body .testimonial-item-link > svg {        margin-left: 6px;}html body .testimonials--card--section {        display: grid;        grid-template-columns: 1fr 1fr;}html body .testimonial-card-link {        display: flex;        flex-direction: column;        max-width: 400px;}html body #et-boc .testimonial-card-link img {        max-width: 400px;        width: 100%;}html body #et-boc .testimonial-card-link p {        font-weight: 400;        font-size: 18px;        line-height: 25px;        color: #666666 !important;        margin-top: 18px;        margin-bottom: 18px;        text-align: left;}html body #et-boc .testimonial-card-link span {        font-weight: 400;        font-size: 12px;        line-height: 16px;        color: #B19846;        text-align: left;}html body .mega-navigation.media .media--testimonials a:hover {        opacity: 1 !important;}/* Media Section End */@media (min-width: 993px) and (max-width: 1300px) {        html body .mega-navigation .mega-column-items {                width: -webkit-fit-content;                width: -moz-fit-content;                width: fit-content        }}@media (min-width: 993px) and (max-width: 1400px) {        html body .testimonials--card--section {                gap: 20px;        }}@media (max-width: 1400px) {        html body .et_pb_row_0_tb_header .et_pb_menu__menu {                margin-left: 1%;        }}@media (max-width: 1500px) {        html body .et_pb_menu_0_tb_header.et_pb_menu--without-logo form.et_pb_menu__search-form {                margin-left: 70px;        }}@media (max-width: 1366px) {        html body #menu-main-menu-new > .menu-item > a {                padding: 24px 20px 24px 20px;        }        html body .header-section-container .et_pb_row--with-menu .et_pb_column_1_5:not(.et-last-child) .et_pb_image_wrap img {                max-width: 148px;                height: 40px;        }        html body .header-section-container .et_pb_row--with-menu .et-last-child .et_pb_button {                font-size: 16px !important;        }}@media (max-width: 1306px) {        html body .et_pb_menu_inner_container .et_pb_menu__icon {                padding-left: 10px;        }        html body .header-section-container .et_pb_row--with-menu .et_pb_column_1_5:not(.et-last-child) .et_pb_image_wrap img {                max-width: 120px;                height: 36px;        }        .header-section-container .et_pb_row--with-menu .et-last-child .et_pb_button {                padding: 0.3em 0.8em !important;        }        html body #menu-main-menu-new > .menu-item > a {                font-size: 14px;                line-height: 18px;        }        html body .et_pb_row_0_tb_header .et_pb_menu__menu {                margin-left: 2%;        }}@media (max-width: 1128px) {        html body .header-section-container .et_pb_row--with-menu .et_pb_column_1_5:not(.et-last-child) .et_pb_image_wrap img {                max-width: 125px;                height: 37px;        }}@media (max-width: 1230px) {        html body #menu-main-menu-new > .menu-item > a {                padding: 24px 10px 24px 10px;        }}@media (min-width: 980px) and (max-width: 1100px) {        html body #menu-main-menu-new > .menu-item:not(:first-child) {                margin-left: 4px;        }        html body .et_pb_menu_inner_container .et_pb_menu__icon {                margin-right: 0px;                margin-left: 10px;                padding: 24px;        }        html body .header-section-container .et_pb_row--with-menu {                width: 100%;                padding-left: 15px;                padding-right: 10px;        }        html body #menu-main-menu-new > .menu-item > a {                padding: 24px 4px 24px 5px;        }        html body .et_pb_menu_inner_container .et_pb_menu__icon {                padding: 24px 0px;        }        html body .header-section-container .et_pb_row--with-menu .et_pb_column_1_5:not(.et-last-child) .et_pb_image_wrap img {                max-width: 107px;                height: 31px;        }}@media (max-width: 1280px) {        html body .mega-navigation .second--row {                padding-left: 20px;        }}@media (max-width: 1250px) {        html body .et_pb_row_0_tb_header .et_pb_menu__menu {                margin-left: 3%;        }        html body .header-section-container .et_pb_row--with-menu {                padding-left: 53px;        }        html body .mega-navigation {                padding: 0 55px;        }        html body .et_pb_menu_0_tb_header.et_pb_menu--without-logo form.et_pb_menu__search-form {                margin-left: 60px;        }        html body .et_pb_menu__search-container.et_pb_no_animation {                right: 60px;        }        html body .blue-bar {                padding: 0 55px;        }}@media (max-width: 1230px) {        html body .mega-navigation .mega-columns-section {                width: 29%;        }        html body .mega-navigation .mega-column-items {                left: 28%;        }        html body .mega-navigation .second--row {                padding-left: 30px;        }        html body #page-container #et-boc .mega-navigation .mega-column-rows .mega-list .mega-link {                font-size: 13px;        }}@media (max-width: 980px) {        html body .mobile_nav.opened .mobile_menu_bar::before {                color: #B19846 !important;        }        html body #mobile_menu2 {                padding: 0;                width: 100vw;                margin-left: -46.7%;                top: 113%;                border: none;                border-radius: 0;                margin-top: 0;                overflow: hidden;        }        html body .et_mobile_nav_menu .mobile_menu_bar::before {                color: #000000 !important;        }        html body ul#mobile_menu2 > li {                display: none;        }        html body .accordionWrapper {                padding: 0;                border-radius: 0;                margin: 0px auto;                -webkit-border-radius: 0;                -moz-border-radius: 0;                -ms-border-radius: 0;                -o-border-radius: 0;        }        html body .accordionWrapper {                padding: 0 5%;                background: #F4F4F4;                width: 100%;                border-radius: 0;                box-sizing: border-box;                margin: 0 auto;                -webkit-border-radius: 0;                -moz-border-radius: 0;                -ms-border-radius: 0;                -o-border-radius: 0;        }        html body .accordionWrapper > .accordionItem {                display: block;                width: 100%;                box-sizing: border-box;        }        html body .accordionWrapper .accordionItemHeading {                display: flex;                align-items: center;                margin: 0 !important;                padding: 0 !important;                position: relative;        }        html body .accordionItemHeading .mega-heading-link {                cursor: pointer;                padding: 18px 0;                font-weight: 400;                font-size: 14px;                line-height: 19px;                color: #333333;                display: flex;                align-items: center;                justify-content: space-between;                width: 100%;                box-sizing: border-box;                width: -webkit-fit-content;                width: -moz-fit-content;                width: fit-content;        }        html body .accordionItemHeading.sub-heading .mega-heading-link {                width: -webkit-fit-content;                width: -moz-fit-content;                width: fit-content;                color: #666666;        }        html body .accordionItemHeading::after {                margin-left: auto !important;        }        html body .accordionItemHeading span {                font-size: 25px;        }        html body .close .accordionItemContent {                display: none;        }        html body .open .accordionItemContent {                width: 100%;                margin: 0;                display: block;                display: flex;                justify-content: space-between;                align-items: center;                display: block;        }        html body .open .accordionItemHeading {                margin: 0px;        }        html body .accordionItemHeading.sub-heading {                background-color: #FFFFFF;        }        html body .accordionItem .accordionItemContent {                display: block !important;                box-shadow: 0 0 0 100vmax #FFFFFF;                -webkit-clip-path: inset(0 -100vmax);                clip-path: inset(0 -100vmax);                background-color: #FFFFFF;                position: relative;        }        html body .accordionWrapper .accordionItemHeading::after {                font-family: ETmodules;                content: "3";                font-size: 20px;                font-weight: 600;                margin-left: 4px;                color: #B19846;                position: unset !important;                transition: 0.1s transform linear;                -webkit-transition: 0.1s transform linear;                -moz-transition: 0.1s transform linear;                -ms-transition: 0.1s transform linear;                -o-transition: 0.1s transform linear;        }        html body .accordionItem.open > .accordionItemHeading::after {                transform: rotate(180deg);        }        html body .accordionItemContent .accordionItem .accordionItemHeading::after {                color: #DFDFDF;        }        html body .accordionItemContent .accordionItem.open .accordionItemHeading::after {                color: #666666;        }        html body #performance-nav .accordionItemHeading::after,        html body #performance-nav .accordionItemContent,        html body #contact-us-nav .accordionItemHeading::after,        html body #contact-us-nav .accordionItemContent {                content: unset;                display: none;        }        html body #performance-nav.open .accordionItemHeading,        html body #contact-us-nav .accordionItemHeading {                color: #000000;        }        html body #et-boc .accordionItemContent .mega-column-list {                background-color: transparent !important;        }        html body #et-boc .accordionItemContent .sub-content {                padding-top: 18px;                background-color: #FFFFFF;        }        html body #et-boc .accordionItemContent .sub-content .mega-link {                padding: 0;        }        html body .accordionItemContent .mega-column-list .mega-list:not(:last-child) {                margin-bottom: 18px;        }        html body #et-boc .accordionItemContent .mega-link {                font-family: \'Montserrat\';                font-weight: 400;                font-size: 12px;                line-height: 16px;                color: #666666 !important;                opacity: 1;                background-color: transparent !important;                border-bottom: 0;        }        html body #insights-education-nav .mega-link,        html body #about-harvest-nav .mega-link {                font-weight: 800 !important;        }        html body .accordionWrapper .mega-link-description {                margin-top: 7px;                font-weight: 400;                font-family: \'Montserrat\';                font-style: italic;                font-size: 12px;                line-height: 14px;                display: flex;                align-items: center;        }        html body .subscribe-section {                background: #082742;                border: 1px solid #082742;                width: 100vw;                margin-left: 50%;                transform: translateX(-50%);                -webkit-transform: translateX(-50%);                -moz-transform: translateX(-50%);                -ms-transform: translateX(-50%);                -o-transform: translateX(-50%);        }        html body .subscribe-section .subscribe-btn {                font-family: \'Montserrat\';                font-style: normal;                font-weight: 500;                font-size: 22px;                line-height: 33px;                display: block;                text-align: center;                padding: 18px 0;                color: #EEEEEE;        }        html body .subscribe-section .subscribe-btn:hover {                background-color: #000000;                color: #FFFFFF;        }        html body .et_builder_inner_content .et_pb_section_2_tb_header .et_pb_row_1_tb_header {                width: 90%;        }        html body #media-nav .level-one .mega-heading-link {                width: 100%;        }        html body .blue-bar {                padding: 24px 5%;                background: #082742;                width: 100vw;                margin-left: 50%;                transform: translateX(-50%);                border-bottom: 1px solid #fff;        }        html body .blue-bar svg {                width: 24px;                height: 24px;        }        html body .section--one {                display: flex;                align-items: center;        }        html body .section--one:not(:last-child) {                margin-bottom: 24px;        }        html body .section--description {                font-family: \'Montserrat\';                font-style: normal;                font-weight: 600;                font-size: 11px;                line-height: 13px;                color: #082742;                margin-left: 14px;        }        html body .accordionWrapper .section--description > a {                font-weight: 400;                font-size: 14px;                line-height: 19px;                color: #EEEEEE;        }        html body .language--wrapper {                display: none;        }        html body .et_builder_inner_content .et_pb_section_2_tb_header .et_pb_image_1_tb_header {                display: none;        }        html body .et_pb_column_3_tb_header.et_pb_css_mix_blend_mode_passthrough .et_pb_column_0_tb_header .et_pb_image_0_tb_header {                max-width: 140px;                width: 100%;                margin: auto;        }        html body #et-boc .et_builder_inner_content .et_pb_section_2_tb_header {                border-bottom: 1px solid #DFDFDF;        }        html body .horizontal--line {                width: 100vw;                margin-left: 50%;                transform: translateX(-50%);                border-bottom: 1px solid #DFDFDF;                display: none;        }        html body .accordionWrapper .accordionItem.open .horizontal--line {                display: block;        }        html body .accordionItemContent > .accordionItem.open {                padding-bottom: 18px;                border-bottom: 1px solid #DFDFDF;        }        html body .accordionItem > .accordionItemContent .accordionItem.open .accordionItemHeading::before {                border-bottom: none;        }        html body .vertical--bar {                margin: 0 5px;        }        html body .accordionItemContent .accordionItem:last-child::after {                content: "";                width: 100vw;                margin-left: 50%;                bottom: 0;                position: absolute;                transform: translateX(-50%);                border-bottom: 1px solid #DFDFDF;        }        html body #media-nav .level-one .accordionItemHeading::after {                content: unset;        }        html body #et-boc .et_builder_inner_content .et_pb_section_2_tb_header {                min-height: 75px;        }        html body html body .et_pb_section_2_tb_header .et_pb_column_3_5 button,        html body .et_pb_column_4_tb_header.et_pb_css_mix_blend_mode_passthrough .et_mobile_nav_menu {                margin: 0 !important;        }}@media (min-width: 1375px) {        html body .et_pb_menu__search-container.et_pb_no_animation {                width: 81%;        }}/* Mobile Navigation Functionality */html body .accordionWrapper .accordionItemContent {        display: none !important;}html body .accordionItem.open .accordionItemContent {        display: block !important;}html body .accordionItem.open .accordionItemContent.sub-content {        display: none !important;}html body .accordionItemContent > .accordionItem.open .accordionItemContent.sub-content {        display: block !important;}html body #about-harvest-nav .accordionItem:not(.about-pro) .accordionItemHeading::after {        content: unset;}html body #about-harvest-nav .accordionItem:not(.about-pro) .accordionItemHeading .mega-heading-link {        width: 100% !important;}html body #contact-us-nav .accordionItemHeading .mega-heading-link,html body #performance-nav .accordionItemHeading .mega-heading-link {        width: 100% !important;}/* Mobile Hover State Here  */html body .accordionItem.open > .accordionItemHeading .mega-heading-link {        font-weight: 500;}html body #mobile_menu2 .accordionWrapper > .accordionItem,html body .accordionItemContent > .accordionItem .accordionItemHeading {        border-bottom: 1px solid #DFDFDF}html body #mobile_menu2 .accordionWrapper #products-nav.open,html body #insights-education-nav.open,html body #about-harvest-nav.open,html body #media-nav.open {        border-bottom: 1px solid transparent !important;}html body .highlighted .column-row-one,html body .highlighted .column-row-three,html body .highlighted .column-row-two {        display: flex;}@media (min-width: 981px) {        html body #page-container #et-boc header .header-section-container .et_pb_equal_columns {                padding-bottom: 0 !important;                box-shadow: 0 0 0 1px #DFDFDF;                max-width: 100% !important;                width: 100% !important;                padding-top: 0 !important;        }        html body .header-section-container .et_pb_row--with-menu {                width: 100%;                padding-left: 80px;                padding-right: 59px;                padding-top: 0 !important;        }        html body .header-section-container .et_pb_row--with-menu .et_pb_column_1_5:not(.et-last-child) .et_pb_image_wrap img {                max-width: 150px;                height: 48px;        }        html body .header-section-container .et_pb_row--with-menu .et_pb_column:not(.et_pb_column--with-menu, .et-last-child) {                width: 17%;                margin-right: auto;                bottom: 5px;        }        html body .header-section-container .et_pb_row--with-menu .et_pb_column--with-menu {                margin-left: unset;                width: 100%;        }        html body .header-section-container .et_pb_row--with-menu .et-last-child {                width: unset;                margin-right: unset !important;                margin-left: auto;        }        html body .header-section-container .et_pb_row--with-menu .et-last-child .et_pb_social_media_follow {                display: none;        }        html body .mega-navigation.active .mega-column-items.column-row-one {                display: none;        }        html body .mega-columns::after {                transform: rotate(-90deg);        }        html body .about-harvest.active .mega-column-items .column-row-two {                display: none !important;        }        html body .et_pb_menu_inner_container .et_pb_menu__icon {                margin-left: 0;                margin-right: 0;                padding: 24px 21px;        }        html body .blue-bar {                background: #082742;                width: 100%;                padding: 0 80px;                position: absolute;                top: 100%;                left: 0;                height: 88px;                display: flex;        }        html body .blue-bar .section--one {                display: flex;                align-items: center;                height: 100%;                cursor: pointer;        }        html body .blue-bar .section--one path {                fill: #fff;        }        html body .blue-bar .section--one:hover svg path {                fill: #B19846;        }        html body .blue-bar .section--one:last-child {                margin-left: 153px;        }        html body #page-container .section--description > a {                font-family: \'Montserrat\';                font-style: normal;                font-weight: 400;                font-size: 16px;                line-height: 22px;                display: flex;                align-items: center;                color: #FFFFFF !important;                margin-left: 20px;        }        html body #page-container .section--description > a:hover {                transition: unset !important;                -webkit-transition: unset !important;                -moz-transition: unset !important;                -ms-transition: unset !important;                -o-transition: unset !important;                background: transparent !important;                opacity: 1;        }        html body #menu-main-menu-new .hide-locale-fr,        html body .header-section-container .et_pb_row--with-menu .et-last-child .et_pb_button_module_wrapper {                display: none;        }        html body .et_pb_menu_0_tb_header .et_pb_menu__wrap {                justify-content: space-between !important;        }        html body .et_pb_menu_0_tb_header .et_pb_menu__search-button {                font-weight: 400;                font-size: 18px;                line-height: 25px;                color: #666666 !important;                display: flex;                flex-direction: row;        }        html body .et_pb_menu_0_tb_header .et_pb_menu__search-button::after {                transform: scaleX(-1);                padding-right: 12px;                font-size: 16px;                color: #B19846;        }        html body #page-container #et-boc #menu-main-menu-new > .menu-item > a {                font-weight: 500;                font-size: 14px;                line-height: 19px;                color: #333333 !important;                padding: 31px 5px 28px 5px;                height: 78px;        }        html body #et-boc #menu-main-menu-new > li:not(:first-child) {                padding: 0 5px;        }        html body .et_pb_row_0_tb_header,        html body .et_pb_menu_0_tb_header,        html body .et_pb_menu_0_tb_header .et_pb_menu_inner_container,        html body .et_pb_row_0_tb_header .et_pb_column_3_5 {                position: static;        }        html body header .et_builder_inner_content {                border-bottom: 1px solid #DFDFDF;        }        html body .mega-columns-heading {                width: 100%;        }        html body .mega-navigation.active .mega-column-items.column-row-three {                display: none;        }        html body .mega-columns.active .mega-column-items {                display: flex !important;        }        html body .mega-navigation.media .column-four::after {                display: none;        }        html body .mega-navigation.media .column-one:hover .mega-column-items {                display: flex !important;        }        html body .mega-navigation.media .column-one:hover ~ .mega-columns .mega-column-items {                display: none !important;        }}@media (max-width: 1050px) {        html body .header-section-container .et_pb_row--with-menu {                padding-left: 30px;                padding-right: 30px;        }        html body .et_pb_menu_0_tb_header.et_pb_menu--without-logo form.et_pb_menu__search-form {                margin-left: 30px;        }        html body .et_pb_menu__search-container.et_pb_no_animation {                right: 30px;        }}@media (min-width: 980px) and (max-width: 995px) {        html body .et_pb_menu_inner_container .et_pb_menu__icon {                padding: 24px 10px;        }}@media only screen and (min-width: 280px) and (max-width: 980px) {        html body .et_pb_row--with-menu .et_pb_row--with-menu .et_pb_menu--without-logo {                margin-top: 4px;        }        html body #mobile_menu2 {                top: 172%;        }        html body .et_pb_section_1_tb_header,        html body .et_pb_column_1_tb_header,        html body .et_pb_column_2_tb_header,        html body .et_pb_social_media_follow_0_tb_header,        html body .et_pb_button_0_tb_header {                display: block !important;        }        html body .et_pb_column_3_tb_header.et_pb_css_mix_blend_mode_passthrough {                margin-bottom: 0 !important;                margin-top: 20px;        }        html body .et_pb_column_3_tb_header.et_pb_css_mix_blend_mode_passthrough .et_pb_row_0_tb_header {                max-width: 100% !important;                width: 100% !important;                height: 35px;        }        html body .et_pb_column_3_tb_header.et_pb_css_mix_blend_mode_passthrough .et-last-child,        html body .et_pb_column_3_tb_header.et_pb_css_mix_blend_mode_passthrough .et_mobile_nav_menu {                display: none !important;        }        html body .et_pb_column_3_tb_header.et_pb_css_mix_blend_mode_passthrough .et_pb_column_0_tb_header {                order: 2;        }        html body .et_pb_column_3_tb_header.et_pb_css_mix_blend_mode_passthrough .et_pb_column_1_tb_header {                order: 1;                width: auto !important;        }        html body .et_pb_menu_1_tb_header.et_pb_bg_layout_light {                top: -35px;        }        html body .et_pb_menu_inner_container .et_pb_menu__icon {                transform: scaleX(-1);        }        html body .et_pb_menu_inner_container .et_pb_menu__icon::after {                color: #666666;        }        html body .et_pb_row--with-menu .et_pb_row--with-menu .et_pb_column--with-menu,        html body .et_pb_row--with-menu .et_pb_row--with-menu .et_pb_menu--without-logo,        html body .et_pb_row--with-menu .et_pb_row--with-menu .et_pb_menu_inner_container {                position: static !important;        }        html body .et_pb_menu__search-container.et_pb_no_animation {                width: 100% !important;        }        html body .et_pb_menu_inner_container .et_pb_menu__icon {                padding-left: 0;        }}@media (max-width: 767px) {        html body .et_pb_column_3_tb_header.et_pb_css_mix_blend_mode_passthrough .et_pb_row_0_tb_header {                padding-top: 0px !important;                padding-bottom: 0px !important;        }        html body .et_pb_column_3_tb_header.et_pb_css_mix_blend_mode_passthrough .et_pb_column_0_tb_header .et_pb_image_0_tb_header {                max-width: 125px;                margin-top: 2px;        }}@media (max-width: 480px) {        html body #et-boc .et_builder_inner_content .et_pb_section_2_tb_header {                min-height: 60px;        }        html body .accordionWrapper {                padding: 0 24px;        }        html body #mobile_menu2 {                top: 140%;        }        html body .et_builder_inner_content .et_pb_section_2_tb_header img {                max-width: 100px;        }        html body .et_pb_menu_1_tb_header.et_pb_bg_layout_light {                top: -32px;        }        html body .et_pb_column_3_tb_header.et_pb_css_mix_blend_mode_passthrough {                margin-top: 12px !important;        }        html body .blue-bar {                padding: 24px;                background: #082742;                width: 100vw;                margin-left: 50%;                transform: translateX(-50%);                border-bottom: 1px solid #fff;        }}/* Desktop Hover State  */html body #page-container #et-boc .mega-columns-section .mega-columns:hover.mega-columns .mega-heading-link,html body #page-container #et-boc .mega-columns-section .mega-columns:hover.mega-columns::after {        color: #B19846 !important;}html body #page-container #et-boc .mega-navigation .mega-column-rows .mega-list .mega-link:hover .mega--bagde {        color: #B19846 !important;}/* Mobile Hover State  */html body #page-container #et-boc .accordionItemContent .sub-content .mega-link:hover .mega--bagde {        color: #B19846 !important;}html body #page-container #et-boc #insights-education-nav .mega-link:hover,html body #page-container #et-boc #about-harvest-nav .mega-link:hover {        color: #B19846 !important;}html body #page-container #et-boc #insights-education-nav .mega-link:hover .mega-link-description,html body #page-container #et-boc #about-harvest-nav .mega-link:hover .mega-link-description {        color: #666666 !important;}')); document.head.appendChild(style);
+        (function () {
+                "use strict";
+
+                if (typeof unsafeWindow !== "undefined") window = unsafeWindow;
+
+                var tag = "Test-alternate-form-layout",
+                        debug = document.cookie.indexOf("OM") > -1;
+
+                window[tag] = {
+                        log: function (msg) {
+                                if (debug) console.log("[OM]", tag, "-->", msg);
+                        },
+
+                        waitForElement: function (cssSelector, callback) {
+                                var interval = setInterval(function () {
+                                        if (
+                                                document &&
+                                                document.querySelector(cssSelector) &&
+                                                document.querySelectorAll(cssSelector).length > 0
+                                        ) {
+                                                clearInterval(interval);
+                                                callback(document.querySelector(cssSelector));
+                                        }
+                                }, 50);
+                                setTimeout(function () {
+                                        clearInterval(interval);
+                                }, 10000);
+                        },
+
+                        init: function () {
+                                try {
+                                        this.waitForElement("body", function (docBody) {
+                                                docBody.classList.add(tag);
+                                        });
+
+                                        if (debug && document.title.indexOf("OM") < 0) {
+                                                document.title = "[OM] " + document.title;
+                                        }
+
+                                        this.waitForElement('#menu-main-menu-new .mega-menu', initVariation);
+
+                                        window[tag].log("test running");
+                                } catch (err) {
+                                        window[tag].log(err.message);
+                                }
+                        },
+                };
+                window[tag].init();
+
+                var varticalSvg = '' +
+                        '<img src="https://i.imgur.com/X43curr.png" alt="">';
+
+                var arrowSvg = '' +
+                        '  <svg width="5" height="9" viewBox="0 0 5 9" fill="none" xmlns="http://www.w3.org/2000/svg">' +
+                        '      <path' +
+                        '        d="M0.167456 8.33254C0.0602341 8.22529 0 8.07984 0 7.92818C0 7.77653 0.0602341 7.63108 0.167456 7.52382L3.19473 4.49655L0.167456 1.46927C0.0632728 1.3614 0.00562456 1.21693 0.00692768 1.06697C0.0082308 0.917009 0.0683809 0.77356 0.174423 0.667517C0.280465 0.561475 0.423915 0.501325 0.573876 0.500022C0.723836 0.498719 0.868309 0.556367 0.976178 0.66055L4.40781 4.09219C4.51504 4.19944 4.57527 4.34489 4.57527 4.49655C4.57527 4.6482 4.51504 4.79365 4.40781 4.90091L0.976178 8.33254C0.868924 8.43977 0.723475 8.5 0.571817 8.5C0.420159 8.5 0.274711 8.43977 0.167456 8.33254Z"' +
+                        '        fill="#666666" />' +
+                        '    </svg>';
+
+
+                var PriceIcon = '' +
+                        '  <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">' +
+                        '  <path fill-rule="evenodd" clip-rule="evenodd" d="M16 29.7931C23.6177 29.7931 29.7931 23.6177 29.7931 16C29.7931 8.38228 23.6177 2.2069 16 2.2069C8.38228 2.2069 2.2069 8.38228 2.2069 16C2.2069 23.6177 8.38228 29.7931 16 29.7931ZM16 32C24.8366 32 32 24.8366 32 16C32 7.16344 24.8366 0 16 0C7.16344 0 0 7.16344 0 16C0 24.8366 7.16344 32 16 32Z" fill="#BEA140"/>' +
+                        '  <path d="M23.0196 24.1627H8.75969C8.43488 24.1627 8.16553 23.8933 8.16553 23.5685C8.16553 23.2437 8.43488 22.9744 8.75969 22.9744H23.0196C23.3444 22.9744 23.6138 23.2437 23.6138 23.5685C23.6138 23.8933 23.3444 24.1627 23.0196 24.1627Z" fill="#BEA140"/>' +
+                        '  <path d="M10.8195 12.7776H9.55192C9.1162 12.7776 8.7597 13.1341 8.7597 13.5698V20.3987C8.7597 20.8344 9.1162 21.1909 9.55192 21.1909H10.8195C11.2552 21.1909 11.6117 20.8344 11.6117 20.3987V13.5698C11.6117 13.1262 11.2552 12.7776 10.8195 12.7776Z" fill="#BEA140"/>' +
+                        '  <path d="M16.5228 10.2524H15.2553C14.8195 10.2524 14.463 10.6089 14.463 11.0447V20.4008C14.463 20.8365 14.8195 21.193 15.2553 21.193H16.5228C16.9585 21.193 17.315 20.8365 17.315 20.4008V11.0447C17.315 10.6089 16.9585 10.2524 16.5228 10.2524Z" fill="#BEA140"/>' +
+                        '  <path d="M22.2277 7.72412H20.9602C20.5245 7.72412 20.168 8.08062 20.168 8.51634V20.3996C20.168 20.8354 20.5245 21.1918 20.9602 21.1918H22.2277C22.6635 21.1918 23.02 20.8354 23.02 20.3996V8.51634C23.02 8.08062 22.6635 7.72412 22.2277 7.72412Z" fill="#BEA140"/>' +
+                        '  </svg>';
+
+
+                var DownloadIcon = '' +
+                        '  <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">' +
+                        '  <path fill-rule="evenodd" clip-rule="evenodd" d="M16 29.7931C23.6177 29.7931 29.7931 23.6177 29.7931 16C29.7931 8.38228 23.6177 2.2069 16 2.2069C8.38228 2.2069 2.2069 8.38228 2.2069 16C2.2069 23.6177 8.38228 29.7931 16 29.7931ZM16 32C24.8366 32 32 24.8366 32 16C32 7.16344 24.8366 0 16 0C7.16344 0 0 7.16344 0 16C0 24.8366 7.16344 32 16 32Z" fill="#EEEEEE"/>' +
+                        '  <path d="M15.8897 7.50342C16.1165 7.50342 16.334 7.59352 16.4944 7.75389C16.6547 7.91427 16.7448 8.13178 16.7448 8.35859V17.4114L18.7057 15.4505C18.867 15.2948 19.083 15.2086 19.3073 15.2105C19.5315 15.2125 19.746 15.3024 19.9045 15.461C20.0631 15.6195 20.153 15.834 20.155 16.0582C20.1569 16.2824 20.0707 16.4985 19.915 16.6597L16.4943 20.0804C16.3339 20.2408 16.1164 20.3308 15.8897 20.3308C15.6629 20.3308 15.4454 20.2408 15.2851 20.0804L11.8644 16.6597C11.7827 16.5809 11.7175 16.4865 11.6727 16.3822C11.6279 16.2778 11.6043 16.1656 11.6033 16.0521C11.6023 15.9385 11.624 15.8259 11.667 15.7208C11.71 15.6157 11.7735 15.5202 11.8538 15.4399C11.9341 15.3596 12.0295 15.2961 12.1346 15.2531C12.2397 15.2101 12.3523 15.1885 12.4659 15.1895C12.5794 15.1905 12.6917 15.2141 12.796 15.2589C12.9003 15.3037 12.9947 15.3689 13.0736 15.4505L15.0345 17.4114V8.35859C15.0345 8.13178 15.1246 7.91427 15.285 7.75389C15.4453 7.59352 15.6629 7.50342 15.8897 7.50342ZM9.90345 20.331C10.1303 20.331 10.3478 20.4211 10.5081 20.5815C10.6685 20.7419 10.7586 20.9594 10.7586 21.1862V22.8965H21.0207V21.1862C21.0207 20.9594 21.1108 20.7419 21.2712 20.5815C21.4315 20.4211 21.6491 20.331 21.8759 20.331C22.1027 20.331 22.3202 20.4211 22.4806 20.5815C22.6409 20.7419 22.731 20.9594 22.731 21.1862V22.8965C22.731 23.3501 22.5508 23.7852 22.2301 24.1059C21.9093 24.4267 21.4743 24.6069 21.0207 24.6069H10.7586C10.305 24.6069 9.86998 24.4267 9.54923 24.1059C9.22848 23.7852 9.04828 23.3501 9.04828 22.8965V21.1862C9.04828 20.9594 9.13838 20.7419 9.29875 20.5815C9.45913 20.4211 9.67665 20.331 9.90345 20.331Z" fill="#EEEEEE"/>' +
+                        '  </svg>';
+
+                var DownloadIconMobile = '' +
+                        '  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">' +
+                        '      <path fill-rule="evenodd" clip-rule="evenodd"' +
+                        '        d="M12 22.3448C17.7133 22.3448 22.3448 17.7133 22.3448 12C22.3448 6.28671 17.7133 1.65517 12 1.65517C6.28671 1.65517 1.65517 6.28671 1.65517 12C1.65517 17.7133 6.28671 22.3448 12 22.3448ZM12 24C18.6274 24 24 18.6274 24 12C24 5.37258 18.6274 0 12 0C5.37258 0 0 5.37258 0 12C0 18.6274 5.37258 24 12 24Z"' +
+                        '        fill="#B19846" />' +
+                        '      <path' +
+                        '        d="M11.9173 5.62756C12.0874 5.62756 12.2505 5.69514 12.3708 5.81542C12.4911 5.9357 12.5587 6.09884 12.5587 6.26894V13.0586L14.0294 11.5879C14.1503 11.4711 14.3123 11.4064 14.4805 11.4079C14.6487 11.4093 14.8095 11.4768 14.9284 11.5957C15.0474 11.7146 15.1148 11.8755 15.1163 12.0437C15.1177 12.2118 15.0531 12.3738 14.9363 12.4948L12.3707 15.0603C12.2505 15.1806 12.0874 15.2481 11.9173 15.2481C11.7472 15.2481 11.5841 15.1806 11.4638 15.0603L8.89832 12.4948C8.83706 12.4356 8.7882 12.3649 8.75458 12.2866C8.72097 12.2084 8.70328 12.1242 8.70254 12.039C8.7018 11.9539 8.71802 11.8694 8.75027 11.7906C8.78252 11.7118 8.83015 11.6402 8.89037 11.58C8.95059 11.5197 9.0222 11.4721 9.10102 11.4399C9.17985 11.4076 9.2643 11.3914 9.34946 11.3921C9.43463 11.3929 9.51879 11.4106 9.59704 11.4442C9.67529 11.4778 9.74606 11.5266 9.80523 11.5879L11.2759 13.0586V6.26894C11.2759 6.09884 11.3435 5.9357 11.4638 5.81542C11.584 5.69514 11.7472 5.62756 11.9173 5.62756ZM7.42763 15.2483C7.59774 15.2483 7.76088 15.3158 7.88116 15.4361C8.00144 15.5564 8.06901 15.7195 8.06901 15.8896V17.1724H15.7656V15.8896C15.7656 15.7195 15.8331 15.5564 15.9534 15.4361C16.0737 15.3158 16.2368 15.2483 16.4069 15.2483C16.577 15.2483 16.7402 15.3158 16.8605 15.4361C16.9807 15.5564 17.0483 15.7195 17.0483 15.8896V17.1724C17.0483 17.5126 16.9132 17.8389 16.6726 18.0794C16.432 18.32 16.1058 18.4551 15.7656 18.4551H8.06901C7.7288 18.4551 7.40253 18.32 7.16197 18.0794C6.9214 17.8389 6.78625 17.5126 6.78625 17.1724V15.8896C6.78625 15.7195 6.85383 15.5564 6.97411 15.4361C7.09439 15.3158 7.25753 15.2483 7.42763 15.2483Z"' +
+                        '        fill="#B19846" />' +
+                        '    </svg>';
+
+                var languageHTML = '' +
+                        '  <div class="language--bar">' +
+                        '      <div class="language--wrapper">' +
+                        '          <span class="en--lang"><a href="https://harvestportfolios.com/" alt="">Er</a></span>' +
+                        '             <svg width="2" height="12" viewBox="0 0 2 12" fill="none" xmlns="http://www.w3.org/2000/svg">' +
+                        '               <path d="M1.728 -7.15256e-07V12H0.936V-7.15256e-07H1.728Z" fill="#A9A9A9" />' +
+                        '             </svg>' +
+                        '          <span class="fr--lang"><a href="https://harvestportfolios.com/fr-CA/" alt="">Fr</a></span>' +
+                        '      </div>' +
+                        '  </div>';
+
+
+                var MegaNavProductsHTML = '' +
+                        '  <div class="mega-navigation products">' +
+                        '      <div class="mega-navigation-container">' +
+                        '          <div class="mega-columns-section">' +
+                        '              <div class="mega-columns column-one highlighted">' +
+                        '                  <div class="mega-columns-heading"><a class="mega-heading-link first--name" href="https://harvestportfolios.com/equity-income-etfs/">Equity Income ETFs</a></div>' +
+                        '                  <div class="mega-column-items column-row-one">' +
+                        '                      <div class="mega-column-rows">' +
+                        '                          <ul class="mega-column-list">' +
+                        '                              <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/etf/hhl?locale=en-CA"><span class="mega--bagde first--link">HHL</span><span class="vertical--bar">&#124;</span> Harvest Healthcare' +
+                        '                                          Leaders' +
+                        '                                          Income ETF</a></li>' +
+                        '                              <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/etf/hbf?locale=en-CA"><span class="mega--bagde">HBF</span><span class="vertical--bar">&#124;</span> Harvest Brand Leaders' +
+                        '                                          Plus' +
+                        '                                          Income ETF</a></li>' +
+                        '                              <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/etf/hta?locale=en-CA"><span class="mega--bagde">HTA</span><span class="vertical--bar">&#124;</span> Harvest Tech Achievers' +
+                        '                                          Growth & Income ETF</a></li>' +
+                        '                              <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/etf/hutl?locale=en-CA"><span class="mega--bagde">HUTL</span><span class="vertical--bar">&#124;</span> Harvest Equal Weight' +
+                        '                                          Global Utilities Income ETF</a></li>' +
+                        '                              <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/etf/hgr?locale=en-CA"><span class="mega--bagde">HGR</span><span class="vertical--bar">&#124;</span> Harvest Global REIT' +
+                        '                                          Leaders Income ETF</a></li>' +
+                        '                              <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/etf/hpf?locale=en-CA"><span class="mega--bagde">HPF</span><span class="vertical--bar">&#124;</span> Harvest Energy Leaders' +
+                        '                                          Plus Income ETF</a></li>' +
+                        '                          </ul>' +
+                        '                      </div>' +
+                        '                      <div class="mega-column-rows second--row">' +
+                        '                          <ul class="mega-column-list">' +
+                        '                              <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/etf/hubl?locale=en-CA"><span class="mega--bagde">HUBL</span><span class="vertical--bar">&#124;</span> Harvest US Bank' +
+                        '                                          Leaders' +
+                        '                                          Income ETF</a></li>' +
+                        '                              <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/etf/hlif?locale=en-CA"><span class="mega--bagde">HLIF</span><span class="vertical--bar">&#124;</span> Harvest Canadian' +
+                        '                                          Equity' +
+                        '                                          Income Leaders ETF</a></li>' +
+                        '                              <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/etf/hesg?locale=en-CA"><span class="mega--bagde">HESG</span><span class="vertical--bar">&#124;</span> Harvest ESG Equity' +
+                        '                                          Income' +
+                        '                                          Index ETF</a></li>' +
+                        '                              <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/etf/trvi/"><span class="mega--bagde">TRVI</span><span class="vertical--bar">&#124;</span> ' +
+                        '                                          Harvest Travel & Leisure Income ETF</a></li>' +
+                        '                              <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/etf/hrif/"><span class="mega--bagde">HRIF</span><span class="vertical--bar">&#124;</span> ' +
+                        '                                          Harvest Diversified Equity Income ETF</a></li>' +
+
+                        '                          </ul>' +
+                        '                      </div>' +
+                        '                  </div>' +
+                        '  ' +
+                        '              </div>' +
+                        '              <div class="mega-columns column-two">' +
+                        '                  <div class="mega-columns-heading"><a class="mega-heading-link" href="https://harvestportfolios.com/enhanced-equity-income-etfs"> Enhanced Equity Income ETFs</a></div>' +
+                        '                  <div class="mega-column-items column-row-two">' +
+                        '                      <div class="mega-column-rows">' +
+                        '                          <ul class="mega-column-list">' +
+                        '                              <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/etf/hhle?locale=en-CA"><span class="mega--bagde">HHLE</span><span class="vertical--bar">&#124;</span> Harvest Healthcare' +
+                        '                                          Leaders Enhanced Income ETF</a></li>' +
+                        '                              <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/etf/hbfe?locale=en-CA"><span class="mega--bagde">HBFE</span><span class="vertical--bar">&#124;</span> Harvest Brand Leaders' +
+                        '                                          Enhanced Income ETF</a></li>' +
+                        '                              <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/etf/htae?locale=en-CA"><span class="mega--bagde">HTAE</span><span class="vertical--bar">&#124;</span> Harvest Tech' +
+                        '                                          Achievers' +
+                        '                                          Enhanced Income ETF</a></li>' +
+                        '                          </ul>' +
+                        '                      </div>' +
+                        '                      <div class="mega-column-rows second--row">' +
+                        '                          <ul class="mega-column-list">' +
+                        '                              <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/etf/hute?locale=en-CA"><span class="mega--bagde">HUTE</span><span class="vertical--bar">&#124;</span> Harvest Equal Weight' +
+                        '                                          Global Utilities Enhanced Income ETF</a></li>' +
+                        '                              <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/etf/hlfe?locale=en-CA"><span class="mega--bagde">HLFE</span><span class="vertical--bar">&#124;</span> Harvest Canadian' +
+                        '                                          Equity' +
+                        '                                          Enhanced Income Leaders ETF</a></li>' +
+                        '                              <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/etf/hdif?locale=en-CA"><span class="mega--bagde">HDIF</span><span class="vertical--bar">&#124;</span> Harvest Diversified' +
+                        '                                          Monthly Income ETF</a></li>' +
+                        '                          </ul>' +
+                        '                      </div>' +
+                        '                  </div>' +
+                        '              </div>' +
+                        '              <div class="mega-columns column-three">' +
+                        '                  <div class="mega-columns-heading"><a class="mega-heading-link" href="https://harvestportfolios.com/equity-growth-focused-etfs/">Equity Growth Focused ETFs</a></div>' +
+                        '                  <div class="mega-column-items column-row-three">' +
+                        '                      <div class="mega-column-rows">' +
+                        '                          <ul class="mega-column-list">' +
+                        '                              <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/etf/hggg?locale=en-CA"><span class="mega--bagde">HGGG</span><span class="vertical--bar">&#124;</span> Harvest Global Gold' +
+                        '                                          Giants Index ETF</a></li>' +
+                        '                              <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/etf/hblk?locale=en-CA"><span class="mega--bagde">HBLK</span><span class="vertical--bar">&#124;</span> Blockchain' +
+                        '                                          Technologies' +
+                        '                                          ETF</a></li>' +
+                        '                              <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/etf/trvl?locale=en-CA"><span class="mega--bagde">TRVL</span><span class="vertical--bar">&#124;</span> Harvest Travel &' +
+                        '                                          Leisure' +
+                        '                                          Index ETF</a></li>' +
+                        '                              <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/etf/hcln?locale=en-CA"><span class="mega--bagde">HCLN</span><span class="vertical--bar">&#124;</span> Harvest Clean Energy' +
+                        '                                          ETF</a></li>' +
+                        '                          </ul>' +
+                        '                      </div>' +
+                        '                  </div>' +
+                        '              </div>' +
+                        '              <div class="mega-columns column-four">' +
+                        '                  <div class="mega-columns-heading"><a class="mega-heading-link" href="https://harvestportfolios.com/structured-and-mutual-funds/">Structured & Mutual Funds</a></div>' +
+                        '                  <div class="mega-column-items column-row-four">' +
+                        '                      <div class="mega-column-rows">' +
+                        '                          <ul class="mega-column-list">' +
+                        '                              <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/closed-end-funds/australian-reit-income-fund?locale=en-CA"><span class="mega--bagde">HRR</span><span class="vertical--bar">&#124;</span> Australian' +
+                        '                                          REIT Income Fund</a></li>' +
+                        '                              <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/closed-end-funds/big-pharma-split-corp?locale=en-CA"><span class="mega--bagde">PRM</span><span class="vertical--bar">&#124;</span> Big' +
+                        '                                          Pharma Split Corp.</a></li>' +
+                        '                              <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/mutual-funds/harvest-banks-and-buildings?locale=en-CA"><span class="mega--bagde">HRV</span><span class="vertical--bar">&#124;</span> Harvest' +
+                        '                                          Banks & Buildings Income Fund</a></li>' +
+                        '                              <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/mutual-funds/harvest-canadian-income-growth-fund?locale=en-CA"><span class="mega--bagde">HRV</span><span class="vertical--bar">&#124;</span> Harvest' +
+                        '                                          Canadian Income & Growth Fund</a></li>' +
+                        '                          </ul>' +
+                        '                      </div>' +
+                        '                  </div>' +
+                        '              </div>' +
+                        '          </div>' +
+                        '      </div>' +
+                        '  <div class="blue-bar">' +
+                        '      <div class="section--one">' +
+                        '           ' + PriceIcon + '  ' +
+                        '          <p class="section--description"><a href="https://harvestportfolios.com/performance/">View All Products Daily Price</a></p>' +
+                        '      </div>' +
+                        '  ' +
+                        '      <div class="section--one">' +
+                        '           ' + DownloadIcon + '  ' +
+                        '          <p class="section--description"><a href="https://cloud.3dissue.net/31690/31548/31839/49053/index.html">Download Harvest ETFs Product Brochure</a></p>' +
+                        '      </div>' +
+                        '  </div>' +
+                        '  </div>';
+
+
+
+
+                var MegaNavInsightsEducationHTML = '' +
+                        '  <div class="mega-navigation education-nav">' +
+                        '      <div class="mega-navigation-container">' +
+                        '          <div class="mega-columns-section">' +
+                        '              <div class="mega-columns column-one highlighted">' +
+                        '                  <div class="mega-columns-heading"><a class="mega-heading-link first--name" href="#">Insights</a></div>' +
+                        '                  <div class="mega-column-items column-row-one">' +
+                        '                      <div class="mega-column-rows">' +
+                        '                          <ul class="mega-column-list">' +
+                        '                              <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/whatsnew/"><span class="mega--bagde first--link">What\'s New</span><span class="vertical--bar">&#124;</span> News, ETF Updates, Announcements' +
+                        '                                              </a></li>' +
+                        '                              <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/harvest-insights/"><span class="mega--bagde">Harvest Insights</span><span class="vertical--bar">&#124;</span> Investment Analysis and ETF Commentary' +
+                        '                                              </a></li>' +
+                        '  ' +
+                        '                          </ul>' +
+                        '                      </div>' +
+                        '                      <div class="mega-column-rows">' +
+                        '                          <ul class="mega-column-list">' +
+                        '                              <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/podcasts/"><span class="mega--bagde">Harvest Talks Podcasts</span><span class="vertical--bar">&#124;</span> In-Depth Market Discussions' +
+                        '                                              </a></li>' +
+                        '                              <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/video-center/"><span class="mega--bagde">Video Center</span><span class="vertical--bar">&#124;</span> Multimedia ETF Information' +
+                        '                                              </a></li>' +
+                        '                          </ul>' +
+                        '                      </div>' +
+                        '                  </div>' +
+                        '  ' +
+                        '              </div>' +
+                        '              <div class="mega-columns column-two">' +
+                        '                  <div class="mega-columns-heading"> <a class="mega-heading-link" href="#">Education</a></div>' +
+                        '                  <div class="mega-column-items column-row-two">' +
+                        '                      <div class="mega-column-rows">' +
+                        '                          <ul class="mega-column-list">' +
+                        '                              <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/retirement-planning/"><span class="mega--bagde">Retirement Planning </span><span class="vertical--bar">&#124;</span> How Income Can Help You Retire' +
+                        '                                              </a></li>' +
+                        '                              <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/covered-call-option-etfs/"><span class="mega--bagde">Covered Call Options ETFs </span><span class="vertical--bar">&#124;</span> Learn About A High-Income Strategy </a></li>' +
+                        '                          </ul>' +
+                        '                      </div>' +
+                        '                      <div class="mega-column-rows">' +
+                        '                          <ul class="mega-column-list">' +
+                        '                              <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/investment-basics/"><span class="mega--bagde">Investment Basics </span><span class="vertical--bar">&#124;</span> Investing and ETFs 101' +
+                        '                                              </a></li>' +
+                        '                              <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/harvest-etfs-faqs/"><span class="mega--bagde">Harvest ETFs FAQ</span><span class="vertical--bar">&#124;</span> Your Questions – Answered' +
+                        '                                              </a></li>' +
+                        '                          </ul>' +
+                        '                      </div>' +
+                        '                  </div>' +
+                        '              </div>' +
+                        '          </div>' +
+                        '      </div>' +
+                        '  </div>';
+
+                var MegaNavMediaHTML = '' +
+                        '  <div class="mega-navigation media">' +
+                        '      <div class="mega-navigation-container">' +
+                        '          <div class="mega-columns-section">' +
+                        '              <div class="mega-columns column-one">' +
+                        '                  <div class="mega-columns-heading"><a class="mega-heading-link" href="https://harvestportfolios.com/in-the-news/">In the News</a>' +
+                        '                  </div>' +
+                        '                  <div class="mega-column-items column-row-one">' +
+                        '                      <div class="mega-column-rows">' +
+                        '                          <div class="media--testimonials">' +
+                        '                              <div class="testimonial--links">' +
+                        '                                  <a class="testimonial-item-link" href="JavaScript:void(0)">Featured</a> ' + varticalSvg + '' +
+                        '                                  <a class="testimonial-item-link view--all" href="https://harvestportfolios.com/in-the-news/">View all ' + arrowSvg + '</a>' +
+                        '                              </div>' +
+                        '  ' +
+                        '                              <div class="testimonials--card--section">' +
+                        '                                  <div class="testimonials--cards">' +
+                        '                                      <a class="testimonial-card-link" href="https://harvestportfolios.com/investing-in-the-health-care-sector-better-returns-than-tech/">' +
+                        '                                          <img src="https://i.imgur.com/O33DLTh.png" alt="">' +
+                        '                                          <p>Investing in the health care sector – better returns than tech?</p>' +
+                        '                                          <span>Read article</span>' +
+                        '                                      </a>' +
+                        '                                  </div>' +
+                        '                                  <div class="testimonials--cards">' +
+                        '                                      <a class="testimonial-card-link" href="https://harvestportfolios.com/harvest-expands-listing-with-launch-of-two-income-etfs/">' +
+                        '                                          <img src="https://i.imgur.com/qsj2aXJ.png" alt="">' +
+                        '                                          <p>Harvest expands listing with launch of two income ETFs</p>' +
+                        '                                          <span>Read article</span>' +
+                        '                                      </a>' +
+                        '                                  </div>' +
+                        '                              </div>' +
+                        '                          </div>' +
+                        '                      </div>' +
+                        '                  </div>' +
+                        '              </div>' +
+                        '              <div class="mega-columns column-two">' +
+                        '                  <div class="mega-columns-heading"><a class="mega-heading-link" href="https://harvestportfolios.com/enhanced-equity-income-etfs">TV Interviews</a>' +
+                        '                  </div>' +
+                        '                  <div class="mega-column-items column-row-two">' +
+                        '                      <div class="mega-column-rows">' +
+                        '                          <div class="media--testimonials">' +
+                        '                              <div class="testimonial--links">' +
+                        '                                  <a class="testimonial-item-link" href="JavaScript:void(0)">Featured</a> ' + varticalSvg + '' +
+                        '                                  <a class="testimonial-item-link view--all" href="https://harvestportfolios.com/tv-interviews/">View all ' + arrowSvg + '</a>' +
+                        '                              </div>' +
+                        '  ' +
+                        '                              <div class="testimonials--card--section">' +
+                        '                                  <div class="testimonials--cards">' +
+                        '                                      <a class="testimonial-card-link" href="https://harvestportfolios.com/paul-macdonalds-market-outlook/">' +
+                        '                                          <img src="https://i.imgur.com/LfIzpWg.png" alt="">' +
+                        '                                          <p>Paul MacDonald’s Market Outlook</p>' +
+                        '                                          <span>Watch interview</span>' +
+                        '                                      </a>' +
+                        '                                  </div>' +
+                        '                                  <div class="testimonials--cards">' +
+                        '                                      <a class="testimonial-card-link" href="https://harvestportfolios.com/top-five-at-5-stock-talk-5-ideas-in-20-mins-find-opportunities-for-growth-in-the-healthcare-space/">' +
+                        '                                          <img src="https://i.imgur.com/wZjt5XR.png" alt="">' +
+                        '                                          <p>Find opportunities for Growth in the Healthcare space</p>' +
+                        '                                          <span>Watch interview</span>' +
+                        '                                      </a>' +
+                        '                                  </div>' +
+                        '                              </div>' +
+                        '                          </div>' +
+                        '                      </div>' +
+                        '                  </div>' +
+                        '              </div>' +
+                        '              <div class="mega-columns column-three highlighted">' +
+                        '                  <div class="mega-columns-heading"><a class="mega-heading-link first--name" href="https://harvestportfolios.com/press-releases/">Press Releases</a>' +
+                        '                  </div>' +
+                        '                  <div class="mega-column-items column-row-three">' +
+                        '                      <div class="mega-column-rows">' +
+                        '                          <div class="media--testimonials">' +
+                        '                              <div class="testimonial--links">' +
+                        '                                  <a class="testimonial-item-link" href="JavaScript:void(0)">Featured</a> ' + varticalSvg + '' +
+                        '                                  <a class="testimonial-item-link view--all" href="https://harvestportfolios.com/press-releases/">View all ' + arrowSvg + '</a>' +
+                        '                              </div>' +
+                        '  ' +
+                        '                              <div class="testimonials--card--section">' +
+                        '                                  <div class="testimonials--cards">' +
+                        '                                      <a class="testimonial-card-link" href="https://harvestportfolios.com/harvest-declares-big-pharma-split-corp-april-2023-distributions-2/">' +
+                        '                                          <img src="https://i.imgur.com/PDN0kJO.png" alt="">' +
+                        '                                          <p>Harvest Declares Big Pharma Split Corp. April 2023 Distributions</p>' +
+                        '                                          <span>Read press release</span>' +
+                        '                                      </a>' +
+                        '                                  </div>' +
+                        '                                  <div class="testimonials--cards">' +
+                        '                                      <a class="testimonial-card-link" href="https://harvestportfolios.com/harvest-announces-listing-of-harvest-travel-leisure-income-etf/">' +
+                        '                                          <img src="https://i.imgur.com/3TyXds1.png" alt="">' +
+                        '                                          <p>Harvest Announces Listing of Harvest Travel & Leisure Income ETF Read press release</p>' +
+                        '                                          <span>Read press release</span>' +
+                        '                                      </a>' +
+                        '                                  </div>' +
+                        '                              </div>' +
+                        '                          </div>' +
+                        '                      </div>' +
+                        '                  </div>' +
+                        '              </div>' +
+                        '              <div class="mega-columns column-four">' +
+                        '                  <div class="mega-columns-heading"><a class="mega-heading-link" href="https://harvestportfolios.com/media-contact/">Media Contact</a>' +
+                        '                  </div>' +
+                        '              </div>' +
+                        '          </div>' +
+                        '      </div>' +
+                        '  </div>';
+
+                var MegaNavAboutHarvestHTML = '' +
+                        '  <div class="mega-navigation about-harvest">' +
+                        '      <div class="mega-navigation-container">' +
+                        '          <div class="mega-columns-section">' +
+                        '              <div class="mega-columns column-one">' +
+                        '                  <div class="mega-columns-heading"><a class="mega-heading-link" href="https://harvestportfolios.com/about-us/">About Us</a></div>' +
+                        '              </div>' +
+                        '              <div class="mega-columns column-two highlighted">' +
+                        '                  <div class="mega-columns-heading"><a class="mega-heading-link first--name" href="https://harvestportfolios.com/investment-philosophy/">Investment Philosophy</a></div>' +
+                        '                  <div class="mega-column-items column-row-two">' +
+                        '                      <div class="mega-column-rows">' +
+                        '                          <ul class="mega-column-list">' +
+                        '                              <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/equity-income-etfs/"><span class="mega--bagde first--link">Equity Income ETFs</span><span class="vertical--bar">&#124;</span> A Strategy For Consistent Cash Flow' +
+                        '                                              </a>' +
+                        '                              </li>' +
+                        '                              <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/enhanced-equity-income-etfs/"><span class="mega--bagde">Enhanced Equity Income ETFs</span><span class="vertical--bar">&#124;</span> Leverage and Covered Calls for Higher Income' +
+                        '                                              </a></li>' +
+                        '                              <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/equity-growth-focused-etfs/"><span class="mega--bagde">Equity Growth Focused ETFs</span><span class="vertical--bar">&#124;</span> Capturing Growth Industries & Mega-Trends' +
+                        '                                              </a></li>' +
+                        '  ' +
+                        '                          </ul>' +
+                        '                      </div>' +
+                        '                  </div>' +
+                        '              </div>' +
+                        '              <div class="mega-columns column-three">' +
+                        '                  <div class="mega-columns-heading"><a class="mega-heading-link" href="https://harvestportfolios.com/our-people/">Our People</a></div>' +
+                        '  ' +
+                        '              </div>' +
+                        '              <div class="mega-columns column-four">' +
+                        '                  <div class="mega-columns-heading"><a class="mega-heading-link" href="https://harvestportfolios.com/contact-us/">Contact Us</a></div>' +
+                        '              </div>' +
+                        '          </div>' +
+                        '      </div>' +
+                        '  </div>';
+
+
+                var MobileNavAccordian = '' +
+                        '  <div class="accordionWrapper">' +
+                        '      <div class="accordionItem" id="products-nav">' +
+                        '          <h2 class="accordionItemHeading"><a class="mega-heading-link" href="#">Products</a></h2>' +
+                        '         <div class="horizontal--line"></div>' +
+                        '          <div class="accordionItemContent level-one">' +
+                        '              <div class="accordionItem pro-one">' +
+                        '                  <h2 class="accordionItemHeading sub-heading"><a class="mega-heading-link" href="https://harvestportfolios.com/equity-income-etfs/">Equity Income ETFs</a></h2>' +
+                        '                  <div class="accordionItemContent sub-content">' +
+                        '                      <div class="mega-column-items column-row-one">' +
+                        '                          <div class="mega-column-rows">' +
+                        '                              <ul class="mega-column-list">' +
+                        '                                  <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/etf/hhl?locale=en-CA"><span class="mega--bagde">HHL</span><span class="vertical--bar">&#124;</span> Harvest Healthcare' +
+                        '                      Leaders' +
+                        '                      Income ETF</a></li>' +
+                        '                                  <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/etf/hbf?locale=en-CA"><span class="mega--bagde">HBF</span><span class="vertical--bar">&#124;</span> Harvest Brand Leaders' +
+                        '                      Plus' +
+                        '                      Income ETF</a></li>' +
+                        '                                  <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/etf/hta?locale=en-CA"><span class="mega--bagde">HTA</span><span class="vertical--bar">&#124;</span> Harvest Tech Achievers' +
+                        '                      Growth & Income ETF</a></li>' +
+                        '                                  <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/etf/hutl?locale=en-CA"><span class="mega--bagde">HUTE</span><span class="vertical--bar">&#124;</span> Harvest Equal Weight' +
+                        '                      Global Utilities Income ETF</a></li>' +
+                        '                                  <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/etf/hgr?locale=en-CA"><span class="mega--bagde">HGR</span><span class="vertical--bar">&#124;</span> Harvest Global REIT' +
+                        '                      Leaders Income ETF</a></li>' +
+                        '                                  <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/etf/hpf?locale=en-CA"><span class="mega--bagde">HPF</span><span class="vertical--bar">&#124;</span> Harvest Energy Leaders' +
+                        '                      Plus Income ETF</a></li>' +
+                        '                                  <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/etf/hubl?locale=en-CA"><span class="mega--bagde">HUBL</span><span class="vertical--bar">&#124;</span> Harvest US Bank' +
+                        '                      Leaders' +
+                        '                      Income ETF</a></li>' +
+                        '                                  <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/etf/hlif?locale=en-CA"><span class="mega--bagde">HLIF</span><span class="vertical--bar">&#124;</span> Harvest Canadian' +
+                        '                      Equity' +
+                        '                      Income Leaders ETF</a></li>' +
+                        '                                  <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/etf/hesg?locale=en-CA"><span class="mega--bagde">HESG</span><span class="vertical--bar">&#124;</span> Harvest ESG Equity' +
+                        '                      Income' +
+                        '                      Index ETF</a></li>' +
+                        '                              <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/etf/trvi/">' +
+                        '                                          <span class="mega--bagde">TRVI</span><span class="vertical--bar">&#124;</span> Harvest Travel & Leisure Income ETF</a></li>' +
+                        '                              <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/etf/hrif/">' +
+                        '                                          <span class="mega--bagde">HRIF</span><span class="vertical--bar">&#124;</span> Harvest Diversified Equity Income ETF</a></li>' +
+                        '                              </ul>' +
+                        '                          </div>' +
+                        '                      </div>' +
+                        '                  </div>' +
+                        '              </div>' +
+                        '              <div class="accordionItem pro-two">' +
+                        '                  <h2 class="accordionItemHeading sub-heading"><a class="mega-heading-link" href="https://harvestportfolios.com/enhanced-equity-income-etfs">Enhanced Equity Income ETFs</a></h2>' +
+                        '                  <div class="accordionItemContent sub-content">' +
+                        '                      <div class="mega-column-items column-row-two">' +
+                        '                          <div class="mega-column-rows">' +
+                        '                              <ul class="mega-column-list">' +
+                        '                                  <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/etf/hhle?locale=en-CA"><span class="mega--bagde">HHLE</span><span class="vertical--bar">&#124;</span> Harvest Healthcare' +
+                        '                      Leaders Enhanced Income ETF</a></li>' +
+                        '                                  <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/etf/hbfe?locale=en-CA"><span class="mega--bagde">HBFE</span><span class="vertical--bar">&#124;</span> Harvest Brand Leaders' +
+                        '                      Enhanced Income ETF</a></li>' +
+                        '                                  <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/etf/htae?locale=en-CA"><span class="mega--bagde">HTAE</span><span class="vertical--bar">&#124;</span> Harvest Tech' +
+                        '                      Achievers' +
+                        '                      Enhanced Income ETF</a></li>' +
+                        '                                  <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/etf/hute?locale=en-CA"><span class="mega--bagde">HUTE</span><span class="vertical--bar">&#124;</span> Harvest Equal Weight' +
+                        '                      Global Utilities Enhanced Income ETF</a></li>' +
+                        '                                  <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/etf/hlfe?locale=en-CA"><span class="mega--bagde">HLEF</span><span class="vertical--bar">&#124;</span> Harvest Canadian' +
+                        '                      Equity' +
+                        '                      Enhanced Income Leaders ETF</a></li>' +
+                        '                                  <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/etf/hdif?locale=en-CA"><span class="mega--bagde">HDIF</span><span class="vertical--bar">&#124;</span> Harvest Diversified' +
+                        '                      Monthly Income ETF</a></li>' +
+                        '                              </ul>' +
+                        '                          </div>' +
+                        '                      </div>' +
+                        '                  </div>' +
+                        '              </div>' +
+                        '              <div class="accordionItem pro-three">' +
+                        '                  <h2 class="accordionItemHeading sub-heading"><a class="mega-heading-link" href="https://harvestportfolios.com/equity-growth-focused-etfs/">Equity Growth Focused ETFs</a></h2>' +
+                        '                  <div class="accordionItemContent sub-content">' +
+                        '                      <div class="mega-column-items column-row-three">' +
+                        '                          <div class="mega-column-rows">' +
+                        '                              <ul class="mega-column-list">' +
+                        '                                  <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/etf/hggg?locale=en-CA"><span class="mega--bagde">HGGG</span><span class="vertical--bar">&#124;</span> Harvest Global Gold' +
+                        '                      Giants Index ETF</a></li>' +
+                        '                                  <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/etf/hblk?locale=en-CA"><span class="mega--bagde">HBLK</span><span class="vertical--bar">&#124;</span> Blockchain' +
+                        '                      Technologies' +
+                        '                      ETF</a></li>' +
+                        '                                  <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/etf/trvl?locale=en-CA"><span class="mega--bagde">TRVL</span><span class="vertical--bar">&#124;</span> Harvest Travel &' +
+                        '                      Leisure' +
+                        '                      Index ETF</a></li>' +
+                        '                                  <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/etf/hcln?locale=en-CA"><span class="mega--bagde">HCLN</span><span class="vertical--bar">&#124;</span> Harvest Clean Energy' +
+                        '                      ETF</a></li>' +
+                        '                              </ul>' +
+                        '                          </div>' +
+                        '                      </div>' +
+                        '                  </div>' +
+                        '              </div>' +
+                        '              <div class="accordionItem pro-four">' +
+                        '                  <h2 class="accordionItemHeading sub-heading"><a class="mega-heading-link" href="https://harvestportfolios.com/structured-and-mutual-funds/">Structured & Mutual Funds</a></h2>' +
+                        '                  <div class="accordionItemContent sub-content">' +
+                        '                      <div class="mega-column-items column-row-four">' +
+                        '                          <div class="mega-column-rows">' +
+                        '                              <ul class="mega-column-list">' +
+                        '                                  <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/closed-end-funds/australian-reit-income-fund?locale=en-CA"><span class="mega--bagde">HRR</span><span class="vertical--bar">&#124;</span> Australian' +
+                        '                      REIT Income Fund</a></li>' +
+                        '                                  <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/closed-end-funds/big-pharma-split-corp?locale=en-CA"><span class="mega--bagde">PRM</span><span class="vertical--bar">&#124;</span> Big' +
+                        '                      Pharma Split Corp.</a></li>' +
+                        '                                  <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/mutual-funds/harvest-banks-and-buildings?locale=en-CA"><span class="mega--bagde">HRV</span><span class="vertical--bar">&#124;</span> Harvest' +
+                        '                      Banks & Buildings Income Fund</a></li>' +
+                        '                                  <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/mutual-funds/harvest-canadian-income-growth-fund?locale=en-CA"><span class="mega--bagde">HRV</span><span class="vertical--bar">&#124;</span> Harvest' +
+                        '                      Canadian Income & Growth Fund</a></li>' +
+                        '                              </ul>' +
+                        '                          </div>' +
+                        '                      </div>' +
+                        '                  </div>' +
+                        '              </div>' +
+                        '          </div>' +
+                        '      </div>' +
+                        '  ' +
+                        '      <div class="accordionItem" id="performance-nav">' +
+                        '          <h2 class="accordionItemHeading"><a class="mega-heading-link" href="https://harvestportfolios.com/performance/">Performance</a></h2>' +
+                        '         <div class="horizontal--line"></div>' +
+                        '          <div class="accordionItemContent">' +
+                        '          </div>' +
+                        '      </div>' +
+                        '  ' +
+                        '  ' +
+                        '      <div class="accordionItem" id="insights-education-nav">' +
+                        '          <h2 class="accordionItemHeading"><a class="mega-heading-link" href="#">Insights & Education</a></h2>' +
+                        '         <div class="horizontal--line"></div>' +
+                        '          <div class="accordionItemContent level-one">' +
+                        '              <div class="accordionItem education-pro-one">' +
+                        '                  <h2 class="accordionItemHeading sub-heading"><a class="mega-heading-link" href="#">Insights</a></h2>' +
+                        '                  <div class="accordionItemContent sub-content">' +
+                        '                      <div class="accordionItemContent">' +
+                        '                          <div class="mega-column-items column-row-one">' +
+                        '                              <div class="mega-column-rows">' +
+                        '                                  <ul class="mega-column-list">' +
+                        '                                      <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/whatsnew/">What\'s New <p class="mega-link-description">' +
+                        '                          News, ETF Updates, Announcements</p></a></li>' +
+                        '                                      <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/harvest-insights/">Harvest Insights <p class="mega-link-description">' +
+                        '                          Investment Analysis and ETF Commentary</p></a></li>' +
+                        '                                      <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/podcasts/">Harvest Talks Podcasts <p' +
+                        '                          class="mega-link-description">In-Depth Market Discussions</p></a></li>' +
+                        '  ' +
+                        '                                      <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/video-center/">Video Center <p class="mega-link-description">' +
+                        '                          Multimedia ETF Information</p></a></li>' +
+                        '  ' +
+                        '                                  </ul>' +
+                        '                              </div>' +
+                        '                          </div>' +
+                        '                      </div>' +
+                        '                  </div>' +
+                        '              </div>' +
+                        '  ' +
+                        '              <div class="accordionItem education-pro-two">' +
+                        '                  <h2 class="accordionItemHeading sub-heading"><a class="mega-heading-link" href="#">Education</a></h2>' +
+                        '                  <div class="accordionItemContent sub-content">' +
+                        '                      <div class="mega-column-items column-row-two">' +
+                        '                          <div class="mega-column-rows">' +
+                        '                              <ul class="mega-column-list">' +
+                        '                                  <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/retirement-planning/">Retirement Planning <p class="mega-link-description">' +
+                        '                        How Income Can Help You Retire</p></a></li>' +
+                        '                                  <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/covered-call-option-etfs/">Covered Call Options ETFs <p' +
+                        '                        class="mega-link-description">Learn About A High-Income Strategy</p></a></li>' +
+                        '                                  <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/investment-basics/">Investment Basics <p class="mega-link-description">' +
+                        '                        Investing and ETFs 101</p></a></li>' +
+                        '                                  <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/harvest-etfs-faqs/">Harvest ETFs FAQ <p class="mega-link-description">' +
+                        '                        Your Questions – Answered</p></a></li>' +
+                        '                              </ul>' +
+                        '                          </div>' +
+                        '                      </div>' +
+                        '  ' +
+                        '                  </div>' +
+                        '              </div>' +
+                        '          </div>' +
+                        '      </div>' +
+                        '  ' +
+                        '  <div class="accordionItem" id="media-nav">' +
+                        '      <h2 class="accordionItemHeading"><a class="mega-heading-link" href="#">Media</a></h2>' +
+                        '         <div class="horizontal--line"></div>' +
+                        '      <div class="accordionItemContent level-one">' +
+                        '          <div class="accordionItem media-pro-one">' +
+                        '              <h2 class="accordionItemHeading sub-heading"><a class="mega-heading-link" href="https://harvestportfolios.com/in-the-news/">In' +
+                        '              the News</a></h2>' +
+                        '          </div>' +
+                        '  ' +
+                        '          <div class="accordionItem media-pro-two">' +
+                        '              <h2 class="accordionItemHeading sub-heading"><a class="mega-heading-link" href="https://harvestportfolios.com/enhanced-equity-income-etfs">TV Interviews</a></h2>' +
+                        '          </div>' +
+                        '  ' +
+                        '          <div class="accordionItem media-pro-three">' +
+                        '              <h2 class="accordionItemHeading sub-heading"><a class="mega-heading-link" href="https://harvestportfolios.com/press-releases/">Press Releases</a></h2>' +
+                        '          </div>' +
+                        '  ' +
+                        '          <div class="accordionItem media-pro-four">' +
+                        '              <h2 class="accordionItemHeading sub-heading"><a class="mega-heading-link" href="https://harvestportfolios.com/media-contact/">Media Contact</a></h2>' +
+                        '          </div>' +
+                        '      </div>' +
+                        '  </div>' +
+                        '  ' +
+                        '      <div class="accordionItem" id="about-harvest-nav">' +
+                        '          <h2 class="accordionItemHeading"><a class="mega-heading-link" href="#">About Harvest</a></h2>' +
+                        '         <div class="horizontal--line"></div>' +
+                        '          <div class="accordionItemContent level-one">' +
+                        '              <div class="accordionItem">' +
+                        '                  <h2 class="accordionItemHeading sub-heading"><a class="mega-heading-link" href="https://harvestportfolios.com/about-us/">About Us</a></h2>' +
+                        '                  <div class="accordionItemContent">' +
+                        '  ' +
+                        '                  </div>' +
+                        '              </div>' +
+                        '              <div class="accordionItem about-pro">' +
+                        '                  <h2 class="accordionItemHeading sub-heading"><a class="mega-heading-link" href="https://harvestportfolios.com/investment-philosophy/">Investment Philosophy</a></h2>' +
+                        '                  <div class="accordionItemContent sub-content">' +
+                        '                      <div class="mega-column-items column-row-two">' +
+                        '                          <div class="mega-column-rows">' +
+                        '                              <ul class="mega-column-list">' +
+                        '                                  <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/equity-income-etfs/">Equity Income ETFs <p class="mega-link-description">' +
+                        '                      A Strategy For Consistent Cash Flow</p></a>' +
+                        '                                  </li>' +
+                        '                                  <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/enhanced-equity-income-etfs/">Enhanced Equity Income ETFs <p' +
+                        '                      class="mega-link-description">Leverage and Covered Calls for Higher Income</p></a></li>' +
+                        '                                  <li class="mega-list"><a class="mega-link" href="https://harvestportfolios.com/equity-growth-focused-etfs/">Equity Growth Focused ETFs <p' +
+                        '                      class="mega-link-description">Capturing Growth Industries & Mega-Trends</p></a></li>' +
+                        '  ' +
+                        '                              </ul>' +
+                        '                          </div>' +
+                        '                      </div>' +
+                        '                  </div>' +
+                        '              </div>' +
+                        '              <div class="accordionItem">' +
+                        '                  <h2 class="accordionItemHeading sub-heading"><a class="mega-heading-link" href="https://harvestportfolios.com/our-people/">Our People</a></h2>' +
+                        '                  <div class="accordionItemContent">' +
+                        '  ' +
+                        '                  </div>' +
+                        '              </div>' +
+                        '          </div>' +
+                        '      </div>' +
+                        '  ' +
+                        '      <div class="accordionItem " id="contact-us-nav">' +
+                        '          <h2 class="accordionItemHeading"><a class="mega-heading-link" href="https://harvestportfolios.com/contact-us/">Contact Us</a></h2>' +
+                        '          <div class="accordionItemContent">' +
+                        '          </div>' +
+                        '      </div>' +
+                        '      <div class="accordionItem " id="contact-us-nav">' +
+                        '          <h2 class="accordionItemHeading"><a class="mega-heading-link" href="https://harvestportfolios.com/fr-CA?s=france">French</a></h2>' +
+                        '          <div class="accordionItemContent">' +
+                        '          </div>' +
+                        '      </div>' +
+                        '  <div class="blue-bar">' +
+                        '      <div class="section--one">' +
+                        '           ' + PriceIcon + '  ' +
+                        '          <p class="section--description"><a href="https://harvestportfolios.com/performance/">View All Products Daily Price</a></p>' +
+                        '      </div>' +
+                        '  ' +
+                        '      <div class="section--one">' +
+                        '           ' + DownloadIconMobile + '  ' +
+                        '          <p class="section--description"><a href="https://cloud.3dissue.net/31690/31548/31839/49053/index.html">Download Harvest ETFs Product Brochure</a></p>' +
+                        '      </div>' +
+                        '  </div>' +
+                        '   <div class="subscribe-section">' +
+                        '      <a class="subscribe-btn" href="https://harvestportfolios.com/subscribe/" target="_blank">SUBSCRIBE</a>' +
+                        '   </div>' +
+                        '  </div>';
+
+                function onLoadJqueryLibrary(trigger, delayInterval, delayTimeout) {
+                        var interval = setInterval(function () {
+                                if (window.jQuery && window.jQuery.fn) {
+                                        clearInterval(interval);
+                                        trigger();
+                                }
+                        }, delayInterval);
+                        setTimeout(function () {
+                                clearInterval(interval);
+                        }, delayTimeout);
+                }
+
+                function initVariation() {
+                        onLoadJqueryLibrary(
+                                function () {
+                                        window[tag].waitForElement('#menu-main-menu-new .about-nav', function () {
+                                                jQuery('.et-boc header').prepend(languageHTML);
+                                                jQuery('#menu-main-menu-new .mega-menu').append(MegaNavProductsHTML);
+                                                jQuery('#menu-main-menu-new .insights-nav').append(MegaNavInsightsEducationHTML);
+                                                jQuery('#menu-main-menu-new .media-nav').append(MegaNavMediaHTML);
+                                                jQuery('#menu-main-menu-new .about-nav').append(MegaNavAboutHarvestHTML);
+                                        })
+
+                                        window[tag].waitForElement('#mobile_menu2', function () {
+                                                jQuery('#mobile_menu2').prepend(MobileNavAccordian);
+                                        })
+
+                                        window[tag].waitForElement('li.menu-item-has-children', function () {
+                                                jQuery('li.menu-item-has-children > a:contains(Learn)').closest('li').addClass('learn-nav')[1];
+                                                jQuery('li.menu-item > a:contains(Performance)').closest('li').addClass('performance')[1];
+                                                jQuery('li.menu-item-has-children > a:contains(Media)').closest('li').addClass('media-nav')[1];
+                                                jQuery('li.menu-item-has-children > a:contains(Insights)').closest('li').addClass('insights-nav')[1];
+                                                jQuery('li.menu-item-has-children > a:contains(Harvest)').closest('li').addClass('about-nav')[1];
+                                                jQuery('li.menu-item  > a:contains(French)').closest('li').addClass('francais-nav')[1];
+                                                jQuery('.insights-nav > a').text('Insights & Education');
+                                                jQuery('.about-nav > a').text('About Harvest');
+                                                jQuery('.francais-nav > a').text('Francais');
+                                                jQuery('.et_pb_menu_0_tb_header .et_pb_menu__search-button').text('Search');
+                                        })
+
+
+                                        window[tag].waitForElement('.mega-columns', function () {
+                                                jQuery(".mega-columns:not(.column-one)").hover(
+                                                        function () {
+                                                                jQuery(this).toggleClass('active');
+                                                                jQuery('.mega-navigation').toggleClass('active');
+                                                        }
+                                                );
+                                        })
+
+                                        window[tag].waitForElement('.accordionWrapper', function () {
+                                                document.querySelectorAll('#mobile_menu2 > .accordionWrapper .accordionItemHeading').forEach(function (ele) {
+                                                        ele.addEventListener('click', function (e) {
+                                                                if (!e.target.closest('.accordionItem').classList.contains('open') && e.target.closest('.level-one')) {
+                                                                        e.target.closest('.level-one').querySelector('.open') && e.target.closest('.level-one').querySelector('.open').classList.remove('open')
+                                                                } else if (!e.target.closest('.accordionItem').classList.contains('open') && e.target.closest('.accordionWrapper')) {
+                                                                        e.target.closest('.accordionWrapper').querySelector('.open') && e.target.closest('.accordionWrapper').querySelector('.open').classList.remove('open')
+                                                                }
+                                                                e.target.closest('.accordionItem').classList.toggle('open')
+                                                        })
+
+                                                })
+                                        })
+
+                                        window[tag].waitForElement('.et_pb_menu_inner_container .et_pb_menu__icon', function () {
+                                                if (window.innerWidth <= 992) {
+                                                        document.querySelector('.et_pb_column_3_tb_header.et_pb_css_mix_blend_mode_passthrough').insertAdjacentElement('afterbegin', document.querySelector('.et_pb_row.et_pb_row_0_tb_header.et_pb_row--with-menu'))
+                                                        document.querySelector('.et_pb_menu_inner_container .et_pb_menu__icon').innerText = ''
+                                                        document.addEventListener('click', function (e) {
+                                                                if (e.target.closest('#page-container #et-boc')) {
+                                                                        if (document.querySelector('.et_pb_menu__search-container--visible')) {
+                                                                                document.querySelector('.et_pb_column_3_tb_header.et_pb_css_mix_blend_mode_passthrough .et_pb_column_0_tb_header .et_pb_image_0_tb_header').style.display = "none";
+                                                                        }
+                                                                        else {
+                                                                                document.querySelector('.et_pb_column_3_tb_header.et_pb_css_mix_blend_mode_passthrough .et_pb_column_0_tb_header .et_pb_image_0_tb_header').style.display = "block";
+                                                                        }
+                                                                }
+                                                        })
+                                                }
+                                        })
+
+
+                                        window[tag].waitForElement('#mobile_menu2', function () {
+                                                if (window.innerWidth <= 992) {
+                                                        document.querySelector('.et_pb_column_4_tb_header .mobile_nav').insertAdjacentElement('afterend', document.querySelector('#mobile_menu2'))
+                                                }
+                                        })
+
+                                },
+                                50, 10000
+                        );
+
+                }
+
+        })();
+
+
+})();
+

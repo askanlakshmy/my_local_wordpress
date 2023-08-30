@@ -1,0 +1,49 @@
+ var tag = "page-template-default",
+                        debug = document.cookie.indexOf("OM") > -1;
+window[tag] = {
+                        log: function (msg) {
+                                if (debug) console.log("[OM]", tag, "-->", msg);
+                        },
+
+                        waitForElement: function (cssSelector, callback) {
+                                var interval = setInterval(function () {
+                                        if (
+                                                document &&
+                                                document.querySelector(cssSelector) &&
+                                                document.querySelectorAll(cssSelector).length > 0
+                                        ) {
+                                                clearInterval(interval);
+                                                callback(document.querySelector(cssSelector));
+                                        }
+                                }, 50);
+                                setTimeout(function () {
+                                        clearInterval(interval);
+                                }, 10000);
+                        },
+
+                        init: function () {
+                                try {
+                                        this.waitForElement("body", function (docBody) {
+                                                docBody.classList.add(tag);
+                                        });
+
+                                        if (debug && document.title.indexOf("OM") < 0) {
+                                                document.title = "[OM] " + document.title;
+                                        }
+
+                                        this.waitForElement('#menu-main-menu-new .mega-menu', initVariation);
+
+                                        window[tag].log("test running");
+                                } catch (err) {
+                                        window[tag].log(err.message);
+                                }
+                        },
+                };
+window[tag].waitForElement('.mega-columns', function () {
+                                                jQuery(".mega-columns:not(.column-one)").hover(
+                                                        function () {
+                                                                jQuery(this).toggleClass('active-new');
+                                                                jQuery('.in_one').toggleClass('active-new');
+                                                        }
+                                                );
+                                        })
