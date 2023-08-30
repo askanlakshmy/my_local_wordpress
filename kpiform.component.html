@@ -1,0 +1,69 @@
+
+<mat-drawer-container (scroll)="onWindowScroll($event)" class="example-container">
+    <mat-drawer #kpidrawer  class="example-sidenav ps-fixed" mode="over" position="end" disableClose>
+      <div class="quatre">
+        <span>{{quater}}</span>
+      </div>
+      <form [formGroup]="kpiform" #formDirective="ngForm">
+        <div class="top-content">
+            
+            <div class="pt-5px">
+              <mat-form-field appearance="outline" >
+                <mat-select  disableOptionCentering=true placeholder="Employee Name *">
+                  <mat-option value="Basic">111</mat-option>
+                  <mat-option value="Advanced">222</mat-option>
+                    <!-- <mat-option *ngFor="let asign of empname | filterlist:empText" [value]="asign.id">
+                      {{ asign.name }}
+                    </mat-option> -->
+                </mat-select>
+              </mat-form-field>
+            </div>
+
+            <div class="pt-10px">
+              <mat-form-field appearance="outline">
+                <textarea matInput  cols="35" rows="20" placeholder="KPI *"  required></textarea>
+                   </mat-form-field>
+            </div>
+
+            <div class="pt-10px">
+              <mat-form-field appearance="outline">
+                <textarea matInput  cols="35" rows="7" placeholder="Private Note"  required></textarea>
+                   </mat-form-field>
+            </div>
+
+            <div class="pt-5px">
+              <mat-form-field appearance="outline">
+                <input matInput type="text" placeholder="Credit" required>
+              </mat-form-field>
+            </div>
+
+            <div class="pt-10px">
+              <mat-form-field appearance="outline">
+                <textarea matInput  cols="35" rows="7" placeholder="Employee Comments"  required></textarea>
+                   </mat-form-field>
+            </div>
+
+            <div class="pt-10px">
+              <mat-form-field appearance="outline">
+                <textarea matInput  cols="35" rows="7" placeholder="Manager Comments"  required></textarea>
+                   </mat-form-field>
+            </div>
+
+            <div class="pt-5px">
+              <mat-form-field appearance="outline">
+                <mat-select  disableOptionCentering=true placeholder="Status">
+                    <mat-option *ngFor="let status of statuslist | filterlist:empText" [value]="status.id">
+                      {{ status.name }}
+                    </mat-option>
+                </mat-select>
+              </mat-form-field>
+            </div>
+
+            <div class="buttondiv">
+              <button class="savebutton">Save</button>
+              <button class="cancelebutton" (click)="close()">Cancle</button>
+            </div>
+        </div>    
+      </form>    
+    </mat-drawer>
+  </mat-drawer-container>

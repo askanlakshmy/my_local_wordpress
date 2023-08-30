@@ -1,0 +1,219 @@
+<!DOCTYPE HTML>
+<html>
+ 
+    <head>
+        <script
+        src="https://code.jquery.com/jquery-3.7.0.min.js"
+        integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g="
+        crossorigin="anonymous"></script>
+        <meta charset="utf-8">
+        <title>My First Slider</title>
+ 
+        <!-- Slider Revolution CSS Files -->
+        <link rel="stylesheet" type="text/css" href="https://rteportal.mp.gov.in/assets/js/revolution-slider/css/layers.css">
+        <link rel="stylesheet" type="text/css" href="https://rteportal.mp.gov.in/assets/js/revolution-slider/css/navigation.css">
+        <link rel="stylesheet" type="text/css" href="https://rteportal.mp.gov.in/assets/js/revolution-slider/css/settings.css">
+ 
+        <!-- Core jQuery Script -->
+        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.js"></script>
+ 
+        <!-- Slider Revolution core JavaScript files -->
+        <script type="text/javascript" src="https://rteportal.mp.gov.in/assets/js/revolution-slider/js/jquery.themepunch.revolution.min.js"></script>
+        <script type="text/javascript" src="https://rteportal.mp.gov.in/assets/js/revolution-slider/js/jquery.themepunch.tools.min.js"></script>
+ 
+        <!-- Slider Revolution extension scripts. ONLY NEEDED FOR LOCAL TESTING -->
+        <!-- <script type="text/javascript" src="https://rteportal.mp.gov.in/assets/js/revolution-slider/js/extensions/revolution.extension.actions.min.js"></script> -->
+        <script type="text/javascript" src="https://rteportal.mp.gov.in/assets/js/revolution-slider/js/extensions/revolution.extension.carousel.min.js"></script>
+        <!-- <script type="text/javascript" src="https://rteportal.mp.gov.in/assets/js/revolution-slider/js/extensions/revolution.extension.kenburn.min.js"></script> -->
+        <script type="text/javascript" src="https://rteportal.mp.gov.in/assets/js/revolution-slider/js/extensions/revolution.extension.layeranimation.min.js"></script>
+        <!-- <script type="text/javascript" src="https://rteportal.mp.gov.in/assets/js/revolution-slider/js/extensions/revolution.extension.migration.min.js"></script> -->
+        <script type="text/javascript" src="https://rteportal.mp.gov.in/assets/js/revolution-slider/js/extensions/revolution.extension.navigation.min.js"></script>
+        <!-- <script type="text/javascript" src="https://rteportal.mp.gov.in/assets/js/revolution-slider/js/extensions/revolution.extension.parallax.min.js"></script> -->
+        <script type="text/javascript" src="https://rteportal.mp.gov.in/assets/js/revolution-slider/js/extensions/revolution.extension.slideanims.min.js"></script>
+        <!-- <script type="text/javascript" src="https://rteportal.mp.gov.in/assets/js/revolution-slider/js/extensions/revolution.extension.video.min.js"></script> -->
+ <style>
+    .menu ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.menu ul li {
+  position: relative;
+}
+
+.menu ul li a {
+  display: block;
+}
+
+.menu ul ul {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+}
+
+.menu ul ul li {
+  width: 100%;
+}
+
+.menu ul ul a {
+  padding-left: 20px;
+}
+
+.menu ul ul ul {
+  top: 0;
+  left: 100%;
+}
+
+@media (max-width: 767px) {
+  .menu ul li:hover > ul {
+    display: none;
+  }
+  .menu ul li:hover > ul,
+  .menu ul li .submenu:hover > ul {
+    display: block;
+  }
+}
+
+ </style>
+    </head>
+ 
+    <body>
+      <style>
+        .input {
+    display: flex;
+    flex-direction: column;
+}
+.flex_form {
+    display: flex;
+}
+      </style>
+      <div class="form_section">
+       <div class="flex_form">
+        <div class="input">
+          <input type="text" placeholder="name">
+          <span class="error">error1</span>
+        </div>
+        <div class="input">
+          <input type="text" placeholder="name1">
+          <span class="error">error1</span>
+        </div>
+        <div class="input">
+          <input type="text" placeholder="name2">
+          <span class="error">error1</span>
+        </div>
+        <div class="input">
+          <input type="text" placeholder="name3">
+          <span class="error">error1</span>
+        </div>
+
+       </div>
+      </div>
+ 
+        <!-- ******************* -->
+        <!-- BEGIN SLIDER MARKUP -->
+        <!-- ******************* -->
+        <div class="rev_slider_wrapper">
+ 
+            <!-- the ID here will be used in the JavaScript below to initialize the slider -->
+            <div id="rev_slider_1" class="rev_slider" data-version="5.4.5" style="display:none">
+ 
+                <!-- BEGIN SLIDES LIST -->
+                <ul>
+ 
+                    <!-- MINIMUM SLIDE STRUCTURE -->
+                    <li data-transition="fade">
+ 
+                        <!-- SLIDE'S MAIN BACKGROUND IMAGE -->
+                        <img src="https://madmor.com/wp-content/uploads/2023/05/hero.webp" alt="Sky" class="rev-slidebg"data-title="Slide Title"
+                        data-param1="Additional Text">
+ 
+                    </li>
+ 
+                    <!-- MINIMUM SLIDE STRUCTURE -->
+                    <li data-transition="fade">
+ 
+                        <!-- SLIDE'S MAIN BACKGROUND IMAGE -->
+                        <img src="https://www.heliosevent.in/wp-content/uploads/2022/05/banner_im.jpg" alt="Ocean" class="rev-slidebg">
+ 
+                    </li>
+ 
+                </ul><!-- END SLIDES LIST -->
+ 
+            </div><!-- END SLIDER CONTAINER -->
+ 
+        </div><!-- END SLIDER CONTAINER WRAPPER -->
+ 
+        <!-- Slider's main "init" script -->
+        <script type="text/javascript">
+ 
+            /* https://learn.jquery.com/using-jquery-core/document-ready/ */
+            jQuery(document).ready(function() {
+ 
+                /* initialize the slider based on the Slider's ID attribute from the wrapper above */
+                jQuery('#rev_slider_1').show().revolution({
+ 
+                    /* options are 'auto', 'fullwidth' or 'fullscreen' */
+                    sliderLayout: 'auto',
+ 
+                    /* basic navigation arrows and bullets */
+                    navigation: {
+ 
+                        arrows: {
+                            enable: true,
+                            style: 'hebe',
+        tmp: '<div class="tp-title-wrap"> <span class="tp-arr-titleholder">{{title}}</span><span class="tp-arr-imgholder"></span></div>',
+                        },
+                    }
+                });
+            });
+ 
+        </script>
+ 
+        <!-- ***************** -->
+        <!-- END SLIDER MARKUP -->
+        <!-- ***************** -->
+        <div class="menu">
+            <ul>
+              <li class="has-dropdown">
+                <a href="#">Menu 1</a>
+                <ul class="submenu">
+                  <li><a href="#">Submenu 1-1</a></li>
+                  <li><a href="#">Submenu 1-2</a></li>
+                  <li class="has-dropdown">
+                    <a href="#">Submenu 1-3</a>
+                    <ul class="submenu">
+                      <li><a href="#">Sub-submenu 1-3-1</a></li>
+                      <li><a href="#">Sub-submenu 1-3-2</a></li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+              <li><a href="#">Menu 2</a></li>
+              <li><a href="#">Menu 3</a></li>
+            </ul>
+          </div>
+          
+ <script>
+    $(document).ready(function() {
+  // Toggle the dropdown menus on click
+  $('.menu li.has-dropdown > a').on('click', function(e) {
+    e.preventDefault();
+    $(this).next('.submenu').slideToggle();
+    $(this).parent().siblings().find('.submenu').slideUp();
+  });
+  
+  // Close the dropdown menus when clicking outside
+  $(document).on('click', function(e) {
+    var target = e.target;
+    if (!$(target).is('.menu li a') && !$(target).parents().is('.menu li a')) {
+      $('.menu .submenu').slideUp();
+    }
+  });
+});
+
+ </script>
+    </body>
+ 
+</html>
